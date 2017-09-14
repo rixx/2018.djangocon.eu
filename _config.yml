@@ -1,0 +1,55 @@
+# Site settings
+title: DjangoCon Europe 2018
+email: 2018@djangocon.eu
+description: >
+  The blog for DjangoCon Europe 2018 in Heidelberg, Germany
+baseurl: ""
+url: ""
+twitter_username: DjangoConEurope
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+navigation:
+  - title: Timeline
+    url: /timeline
+  - title: Information
+    url: /info
+    subpages:
+      - title: Getting here
+        url: /info/travelling
+      - title: Heidelberg
+        url: /info/heidelberg
+      - title: Accomodation
+        url: /info/accomodation
+      - title: Venues
+        url: /info/venues
+  - title: Tickets
+    url: /tickets
+  - title: Code of Conduct
+    url: /conduct
+  - title: Accessibility
+    url: /access
+  - title: Sponsors
+    url: /sponsoring
+    subpages:
+      - title: Our Sponsors
+        url: /sponsoring/list
+      - title: Become a Sponsor
+        url: /sponsoring/youtoo
+  - title: News
+    url: /news
+  - title: Contact
+    url: /contact
+
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
