@@ -10,14 +10,98 @@ understand that this is a **rough** timeline – as we cannot see into the
 future, some things might move around, but we will communicate every noticable
 change in a blog post!
 
-- 2017-12-01: Open Call for Participation
-- 2017-12-01: Open ticket sale
-- 2017-03-01: Close Call for Participation
-- 2017-04-05: Contact selected speakers
-- 2017-04-09: Announce speaker lineup
-- 2017-04-15: Announce schedule
-- 2017-05-23: Talks Day 1
-- 2017-05-24: Talks Day 2
-- 2017-05-25: Talks Day 3
-- 2017-05-26: Sprints Day 1
-- 2017-05-27: Sprints Day 2
+<ol class="timeline">
+  <li><div class="timeline-bubble"></div><div class="timeline-content">
+    <div class="date">
+      2017-12-01
+    </div>
+    <div class="heading">
+      Open Call for Participation
+    </div>
+  </div></li>
+  <li><div class="timeline-bubble"></div><div class="timeline-content">
+    <div class="date">
+      2017-12-01
+    </div>
+    <div class="heading">
+      Open ticket sale
+    </div>
+  </div></li>
+  <li><div class="timeline-bubble"></div><div class="timeline-content">
+    <div class="date">
+      2017-03-01
+    </div>
+    <div class="heading">
+      Close Call for Participation
+    </div>
+  </div></li>
+  <li><div class="timeline-bubble"></div><div class="timeline-content">
+    <div class="date">
+      2017-04-05
+    </div>
+    <div class="heading">
+      Contact selected speakers
+    </div>
+  </div></li>
+  <li><div class="timeline-bubble"></div><div class="timeline-content">
+    <div class="date">
+      2017-04-09
+    </div>
+    <div class="heading">
+      Announce speaker lineup
+    </div>
+  </div></li>
+  <li><div class="timeline-bubble"></div><div class="timeline-content">
+    <div class="date">
+      2017-04-15
+    </div>
+    <div class="heading">
+      Announce schedule
+    </div>
+  </div></li>
+  <li><div class="timeline-bubble"></div><div class="timeline-content">
+    <div class="date">
+      2017-05-23
+    </div>
+    <div class="heading">
+      Talks Day 1
+    </div>
+  </div></li>
+  <li><div class="timeline-bubble"></div><div class="timeline-content">
+    <div class="date">
+      2017-05-24
+    </div>
+    <div class="heading">
+      Talks Day 2
+    </div>
+  </div></li>
+  <li><div class="timeline-bubble"></div><div class="timeline-content">
+    <div class="date">
+      2017-05-25
+    </div>
+    <div class="heading">
+      Talks Day 3
+    </div>
+  </div></li>
+  <li><div class="timeline-bubble"></div><div class="timeline-content">
+    <div class="date">
+      2017-05-26
+    </div>
+    <div class="heading">
+      Sprints Day 1
+    </div>
+  </div></li>
+  <li><div class="timeline-bubble"></div><div class="timeline-content">
+    <div class="date">
+      2017-05-27
+    </div>
+    <div class="heading">
+      Sprints Day 2
+    </div>
+  </div></li>
+  <li><div class="timeline-bubble"></div><div class="timeline-content">
+    <div class="heading">
+      Goodbye!
+    </div>
+  </div></li>
+</ol>
