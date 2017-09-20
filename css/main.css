@@ -3,7 +3,15 @@ body {
     font-size: 16px;
     margin: 0;
 }
-
+a {
+    text-decoration: none;
+    font-weight: 600;
+    color: #f58718;
+}
+a:hover {
+    background-color: #f58718;
+    color: #000;
+}
 #wrapper {
     width: 95%;
     max-width: 940px;
