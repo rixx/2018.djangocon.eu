@@ -10,11 +10,12 @@ body {
     margin: auto;
 }
 .logo {
-  background: #f58718;
+    background: #f58718;
 }
 
 header {
-    border-bottom: 1px solid black;
+    border-bottom: 2px solid black;
+    margin-top: 10px;
     margin-bottom: 30px;
 }
 
@@ -25,19 +26,19 @@ img.logo {
 }
 
 footer {
-    border-top: 1px solid black;
+    border-top: 2px solid black;
     margin-top: 30px;
     text-align: center;
     padding: 10px 0;
 }
 
 footer a {
-    text-transform: uppercase;
     color: black;
     text-decoration: none;
+    padding: 1px;
 }
 footer a:hover {
-    color: #666;
+    background-color: #f58718;
 }
 #site-navigation {
     list-style: none;
@@ -61,11 +62,16 @@ footer a:hover {
 }
 #site-navigation > li > ul > li {
     display: none;
-    background-color: #000;
+    padding: 5px;
+    background-color: #f58718;
+    border-bottom: 1px solid #fff;
     color: #fff;
 }
 #site-navigation > li > ul > li > a {
     color: #fff;
+}
+#site-navigation > li:hover > ul > li:hover > a {
+    color: #000;
 }
 #site-navigation > li:hover > ul > li {
     display: block;
@@ -74,8 +80,10 @@ footer a:hover {
     display: block;
 }
 #site-navigation > li.current a {
-    color: #fff;
-    background-color: #000;
+    color: #f58718;
+}
+#site-navigation > li.current:hover a {
+    color: #000;
 }
 #site-navigation > li.separator {
     display: block;
@@ -96,7 +104,7 @@ footer a:hover {
     text-decoration: none;
 }
 #site-navigation > li a:hover {
-    color: #666;
+    background-color: #f58718;
 }
 
 h2 {
