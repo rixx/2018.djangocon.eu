@@ -11,7 +11,7 @@ unclear to you, please [contact us](/contact)!
     Getting there
   </a>
   <a class="information" href="/info/heidelberg">
-    Heidelberg
+    Getting around
   </a>
   <a class="information" href="/info/accomodation">
     Accomodation

@@ -12,6 +12,17 @@ a:hover {
     background-color: #f58718;
     color: #000;
 }
+
+h2 {
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 22px;
+}
+h3 {
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 20px;
+}
 #wrapper {
     width: 95%;
     max-width: 940px;
@@ -48,6 +59,7 @@ footer a {
 footer a:hover {
     background-color: #f58718;
 }
+/********* Begin Header ****************/
 #site-navigation {
     list-style: none;
     padding: 0;
@@ -114,17 +126,7 @@ footer a:hover {
 #site-navigation > li a:hover {
     background-color: #f58718;
 }
-
-h2 {
-    font-weight: normal;
-    text-transform: uppercase;
-    font-size: 22px;
-}
-h3 {
-    font-weight: normal;
-    text-transform: uppercase;
-    font-size: 20px;
-}
+/********* End Header ******************/
 @media(max-width: 940px) {
     header h1 {
         display: block;
@@ -150,6 +152,7 @@ h3 {
         text-align: center;
     }
 }
+/********* Begin Timeline **************/
 .timeline {
   position: relative;
   padding: 2em 0;
@@ -245,4 +248,20 @@ h3 {
 .timeline-content .heading {
   opacity: 1;
   margin-left: 4px;
+}
+/********* End Timeline ****************/
+
+
+/********* Information page ************/
+.information-buttons {
+  display: flex;
+  flex-direction: row;
+}
+.information-buttons .information {
+  border: 3px solid #f58718;
+  display: block;
+  flex-grow: 1;
+  padding: 20px 50px;
+  margin: 8px;
+  text-align: center;
 }
