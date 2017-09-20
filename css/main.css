@@ -1,6 +1,7 @@
 body {
     font-family: Futura, "Open Sans", Helvetica, Arial, sans-serif;
     font-size: 16px;
+    margin: 0;
 }
 
 #wrapper {
@@ -8,34 +9,19 @@ body {
     max-width: 940px;
     margin: auto;
 }
-
-header h1 {
-    font-weight: normal;
-    text-transform: uppercase;
-    display: flex;
-    justify-content: space-between;
-    margin: 30px 30px 0 30px;
-    font-size: 28px;
-}
-
-
-header h1 a {
-    color: black;
-    text-decoration: none;
-}
-
-header .dateline {
-    text-transform: uppercase;
-    font-size: 22px;
-}
-
-header h1 span {
-    display: block;
+.logo {
+  background: #f58718;
 }
 
 header {
     border-bottom: 1px solid black;
     margin-bottom: 30px;
+}
+
+img.logo {
+  max-width: 940px;
+  display: block;
+  margin: auto;
 }
 
 footer {
@@ -187,7 +173,7 @@ h3 {
   height: 24px;
   border-radius: 50%;
   box-shadow: 0 0 0 4px white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
-  background: #75ce66;
+  background: #f58718;
   margin-left: -12px;
   margin-top: -12px;
 }
@@ -222,8 +208,9 @@ h3 {
   top: 50%;
   max-width: 320px;
   margin-left: 60px;
-  background: rgba(0,0,30,0.05);
-  border-top: 3px solid black;
+  background: rgba(245,135,24,0.05);
+  border: 1px solid #f58718;
+  border-top: 3px solid #f58718;
   padding: 1em;
 }
 .timeline li:nth-child(2n) .timeline-content {
@@ -237,19 +224,9 @@ h3 {
 .timeline-content .date, .timeline-content .heading {
   float: left;
   padding: .8em 0;
-  opacity: .7;
+  opacity: .6;
 }
 .timeline-content .heading {
   opacity: 1;
   margin-left: 4px;
-}
-.timeline-content::before {
-  content: '';
-  position: absolute;
-  top: 16px;
-  right: 100%;
-  height: 0;
-  width: 0;
-  border: 7px solid transparent;
-  border-right: 7px solid white;
 }
