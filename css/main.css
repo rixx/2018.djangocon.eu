@@ -23,6 +23,12 @@ h3 {
     text-transform: uppercase;
     font-size: 20px;
 }
+code {
+    display: block;
+    padding: 16px 24px;
+    width: auto;
+    background: rgba(245,135,24,0.15);
+}
 #wrapper {
     width: 95%;
     max-width: 940px;
