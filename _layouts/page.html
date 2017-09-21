@@ -20,11 +20,11 @@
             {% assign current = 'current' %}
             {% assign current_page = link %}
           {% endif %}
-          <li class="menu-item {{ current }}">
+          <li class="menu-item {{ current }} {% if link.subpages %} has-dropdown {% endif %}">
             <a href="{% if link.url contains "://" %}{{ link.url }}{% else %}{{ link.url | prepend: site.baseurl }}{% endif %}"
               {% if link.url contains "://" %}target="_blank"{% endif %}>
               {{ link.title }}
-              {% if link.subpages %} ▼ {% endif %}
+
             </a>
             {% if link.subpages %}
               <ul class="dropdown">
@@ -39,7 +39,6 @@
               </ul>
             {% endif %}
           </li>
-          <li class="separator">|</li>
         {% endfor %}
       </ul>
     </nav>
