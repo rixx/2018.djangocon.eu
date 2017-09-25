@@ -8,6 +8,7 @@ a {
     text-decoration: none;
     font-weight: 600;
     color: #f58718;
+    cursor: pointer;
 }
 a:hover {
     background-color: #f58718;
@@ -30,18 +31,13 @@ code {
     width: auto;
     background: rgba(245,135,24,0.15);
 }
-#wrapper {
+.wrapper {
     width: 95%;
     max-width: 940px;
     margin: auto;
 }
 .logo {
     background: #f58718;
-}
-
-header {
-    border-bottom: 2px solid black;
-    margin-bottom: 30px;
 }
 
 img.logo {
@@ -55,96 +51,132 @@ footer {
     margin-top: 30px;
     text-align: center;
     padding: 10px 0;
+    background: #222;
+    color: white;
 }
 
 footer a {
-    color: black;
+    color: white;
     text-decoration: none;
     padding: 1px;
+    font-weight: bold;
 }
 footer a:hover {
-    background-color: #f58718;
+    color: #f58718;
+    background: transparent;
 }
 /********* Begin Header ****************/
-#site-navigation {
-    height: 36px;
+header {
+    background: #222;
+    margin-bottom: 30px;
+}
+
+header.subnav {
+    background: #444;
+    margin-bottom: 30px;
+    margin-top: -30px;
+}
+.site-navigation {
     list-style: none;
     padding: 0;
     margin: 0;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+}
+.subnav .site-navigation {
+    justify-content: flex-start;
 }
 
-#site-navigation > li.menu-item {
+.site-navigation > li.menu-item {
     display: block;
-    padding: 0 4px;
     margin: 0;
     flex-grow: 0;
     text-align: left;
     position: relative;
+    padding: 0;
 }
-#site-navigation > li > ul {
+.site-navigation > li.menu-item > a {
+    padding: 0 8px;
+}
+.site-navigation > li > ul {
     position: absolute;
     display: inline-block;
     left: 0;
     top: 36px;
     padding: 0;
     min-width: 100%;
+    z-index: 200;
 }
-#site-navigation > li > ul > li {
+.site-navigation > li > ul > li {
     display: none;
     padding: 0 8px;
     background-color: #f58718;
-    border-bottom: 1px solid #fff;
     color: #fff;
 }
-#site-navigation > li > ul > li > a {
+.site-navigation > li > ul > li > a {
     font-size: 14px;
     color: #fff;
     white-space: nowrap;
 }
-#site-navigation > li:hover > ul > li:hover > a {
+.site-navigation > li:hover > ul > li:hover {
+    background-color: #d17314;
+}
+.site-navigation > li:hover > ul > li:hover > a {
     color: #000;
+    background-color: #d17314;
 }
-#site-navigation > li:hover > ul > li {
+.site-navigation > li:hover > ul > li {
     display: block;
 }
-#site-navigation > li > ul:hover > li {
+.site-navigation > li > ul:hover > li {
     display: block;
 }
-#site-navigation > li.current a {
+.site-navigation > li.current {
     color: #f58718;
 }
-#site-navigation > li.current:hover a {
+.site-navigation > li.has-dropdown.current {
+    background: #444;
+}
+.site-navigation > li.has-dropdown.current:hover,
+.site-navigation > li.has-dropdown.current:hover a {
+    background-color: #f58718;
+    color: #333;
+}
+.site-navigation > li.current > a {
+    color: #f58718;
+}
+.site-navigation > li.current:hover > a {
     color: #000;
 }
-#site-navigation > li::before {
-    content: '|';
-    font-weight: bold;
-    position: absolute;
-    line-height: 36px;
-    left: -6px;
+.site-navigation > li.has-dropdown > a {
+    padding-right: 0;
 }
-#site-navigation > li:first-child::before {
-    content: '';
-}
-#site-navigation > li.has-dropdown::after {
+.site-navigation > li.has-dropdown::after {
     content: '⌄';
     font-weight: bold;
     font-size: 24px;
-    vertical-align: text-bottom;
+    vertical-align: top;
     line-height: 1;
+    color: #eee;
+    padding-right: 8px;
 }
-
-#site-navigation > li a {
+.site-navigation > li.has-dropdown.current::after {
+    color: #f58718;
+}
+.site-navigation > li a {
     font-weight: bold;
-    text-transform: uppercase;
-    color: black;
+    color: #eee;
     text-decoration: none;
     line-height: 36px;
+    cursor: pointer;
 }
-#site-navigation > li:hover {
+.site-navigation > li:hover {
     background-color: #f58718;
+}
+.site-navigation > li:hover::after,
+.site-navigation > li.has-dropdown.current:hover::after,
+.site-navigation > li:hover a  {
+    color: #333;
 }
 /********* End Header ******************/
 @media(max-width: 940px) {
@@ -159,14 +191,14 @@ footer a:hover {
     .container {
         margin: 0 10px;
     }
-    #site-navigation {
+    .site-navigation {
         flex-wrap: wrap;
     }
-    #site-navigation > li.separator {
+    .site-navigation > li.separator {
         display: none;
         border: 0;
     }
-    #site-navigation > li.menu-item {
+    .site-navigation > li.menu-item {
         width: 40%;
         flex-grow: 1;
         text-align: center;

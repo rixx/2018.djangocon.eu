@@ -1,55 +1,84 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  {% include head.html %}
+    {% include head.html %}
 </head>
 <body>
 <div class="logo">
-  <a href='/'>
-    <img src="/assets/djangocon_logo.svg" alt="The DjangoCon Europe 2017 logo" class="logo">
-  </a>
+    <a href='/'>
+        <img src="/assets/djangocon_logo.svg" alt="The DjangoCon Europe 2017 logo" class="logo">
+    </a>
 </div>
-<div id="wrapper">
-  <header>
-    <nav>
-      <ul id="site-navigation">
-        {% assign current_page = nil %}
-        {% for link in site.navigation %}
-          {% assign current = '' %}
-          {% if page.url contains link.url %}
-            {% assign current = 'current' %}
-            {% assign current_page = link %}
-          {% endif %}
-          <li class="menu-item {{ current }} {% if link.subpages %} has-dropdown {% endif %}">
-            <a href="{% if link.url contains "://" %}{{ link.url }}{% else %}{{ link.url | prepend: site.baseurl }}{% endif %}"
-              {% if link.url contains "://" %}target="_blank"{% endif %}>
-              {{ link.title }}
+<header>
+    <div class="wrapper">
+        <nav>
+            <ul class="site-navigation">
+                {% assign current_page = nil %}
+                {% for link in site.navigation %}
+                    {% assign current = '' %}
+                    {% if page.url contains link.url %}
+                        {% assign current = 'current' %}
+                        {% assign current_page = link %}
+                    {% endif %}
+                    <li class="menu-item {{ current }} {% if link.subpages %} has-dropdown {% endif %}">
+                        <a href="{% if link.url contains "://" %}{{ link.url }}{% else %}{{ link.url | prepend: site.baseurl }}{% endif %}"
+                           {% if link.url contains "://" %}target="_blank"{% endif %}>
+                            {{ link.title }}
 
-            </a>
-            {% if link.subpages %}
-              <ul class="dropdown">
-                {% for subpage in link.subpages %}
-                  <li class="dropdown-menu-item }}">
-                    <a href="{% if subpage.url contains "://" %}{{ subpage.url }}{% else %}{{ subpage.url | prepend: site.baseurl }}{% endif %}"
-                      {% if subpage.url contains "://" %}target="_blank"{% endif %}>
-                      {{ subpage.title }}
-                    </a>
-                  </li>
+                        </a>
+                        {% if link.subpages and current == '' %}
+                        <ul class="dropdown">
+                        {% for subpage in link.subpages %}
+                            <li class="dropdown-menu-item }}">
+                                <a href="{% if subpage.url contains "://" %}{{ subpage.url }}{% else %}{{ subpage.url | prepend: site.baseurl }}{% endif %}"
+                                   {% if subpage.url contains "://" %}target="_blank"{% endif %}>
+                                    {{ subpage.title }}
+                                </a>
+                            </li>
+                            {% endfor %}
+                            </ul>
+                        {% endif %}
+                    </li>
                 {% endfor %}
-              </ul>
-            {% endif %}
-          </li>
-        {% endfor %}
-      </ul>
-    </nav>
-  </header>
-  <div class="container">
-    {{ content }}
-  </div>
-  <footer>
-    <div class="container">
-      ROSE e.V. &middot; <a href="/imprint.html">Impressum</a> &middot; <a href="https://twitter.com/DjangoConEurope" target="_blank">Twitter</a> &middot; <a href="/feed.xml">RSS Feed</a>
+            </ul>
+        </nav>
     </div>
-  </footer>
-</div></body>
+</header>
+{% if current_page and current_page.subpages %}
+    <header class="subnav">
+        <div class="wrapper">
+            <nav>
+                <ul class="site-navigation">
+                    {% for link in current_page.subpages %}
+                        {% assign current = '' %}
+                        {% if page.url contains link.url %}
+                            {% assign current = 'current' %}
+                        {% endif %}
+                        <li class="menu-item {{ current }}">
+                            <a href="{% if link.url contains "://" %}{{ link.url }}{% else %}{{ link.url | prepend: site.baseurl }}{% endif %}"
+                               {% if link.url contains "://" %}target="_blank"{% endif %}>
+                                {{ link.title }}
+
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </nav>
+        </div>
+    </header>
+{% endif %}
+<div class="wrapper">
+    <div class="container">
+        {{ content }}
+    </div>
+</div>
+<footer>
+    <div class="wrapper">
+        DjangoCon Europe 2018 in Heidelberg is organized with love by ROSE e.V. <br>
+        <a href="/imprint/">Imprint</a> &middot;
+        <a href="https://twitter.com/DjangoConEurope" target="_blank">Twitter</a> &middot;
+        <a href="/feed.xml">RSS Feed</a>
+    </div>
+</footer>
+</body>
 </html>
