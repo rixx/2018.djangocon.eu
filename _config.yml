@@ -5,6 +5,7 @@ description: >
   The blog for DjangoCon Europe 2018 in Heidelberg, Germany
 baseurl: ""
 url: ""
+permalink: /:year/:month/:day/:title/
 twitter_username: DjangoConEurope
 
 # Build settings
