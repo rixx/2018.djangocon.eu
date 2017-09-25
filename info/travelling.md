@@ -19,7 +19,7 @@ section below for notes on the S-train. Depending on the exact connection, this 
 per direction. From the regional train station, you can reach Heidelberg with train or bus-train
 connections that take about 1hour and 50 minutes and cost 13 to 22 EUR.
 
-You can check train connections and buy tickets (see notes below)
+You can check train connections and buy tickets (see notes below at „By train“)
 [at the DB website](https://www.bahn.com/en/view/index.shtml).
 
 The long-distance bus company Flixbus operates direct connections from the airport to Heidelberg up
@@ -56,8 +56,7 @@ from there. However, in all cases, all cars will go to Heidelberg Central. There
 called “Heidelberg-something” on the line. The central station is called “Heidelberg Hbf”. If in
 doubt, ask a local. Most people around you will understand and speak English.
 
-You can check railway connections and book tickets at [the railroad home
-page](https://www.bahn.com/en/view/index.shtml).
+You can check railway connections and book tickets [at the DB website](https://www.bahn.com/en/view/index.shtml).
 
 Those trains can be used both with a DB ticket as well as a VRN public transport ticket.  If you are
 using a train to get to Mannheim, we recommend to book your ticket including the connection to
@@ -66,6 +65,10 @@ Mannheim–Heidelberg, you will need a VRN public transport ticket of “Price l
 costs 5.60 EUR. Tickets can not be bought on board of the train, you will need to get one
 beforehand. There are red ticket machines by DB that sell both DB and VRN tickets and take cash,
 credit cards and some debit cards (girocard/Maestro/V-Pay).
+
+The electronic displays outside and inside of the trains are notoriously broken and might show none
+or false information. The electronic displays on the platform are usually correct. If in doubt, ask
+a local or a DB staff member.
 
 Heidelberg and Mannheim share their tram and bus network and there is a tram that goes from Mannheim
 to Heidelberg (route “5”). However, it is much slower than the DB trains and can not be used with a
@@ -81,6 +84,5 @@ is printed on the ticket.
 
 The long-distance bus companies FlixBus and DeinBus offer lots of cheap direct connections to
 Heidelberg from places all over Europe.
-
-Check their routes [here](https://www.flixbus.com/bus-routes#/map/59) and
-[here](https://www.deinbus.de/fernbus/)
+You can check their routes [here](https://www.flixbus.com/bus-routes#/map/59) and
+[here](https://www.deinbus.de/fernbus/).

@@ -29,7 +29,8 @@ features a special tariff that charges you by kilometer distance.
 
 Connections can be checked at [the official site](https://www.vrn.de/). Unfortunately, the site does
 not appear to be available in English, but you can use the website (and app) of
-[DB](https://www.bahn.de/p/view/index.shtml) instead, which does not have real-time information.
+[DB](https://www.bahn.de/p/view/index.shtml) instead, which has the same information (except real-time
+data on delays).
 
 **At night**, the normal tram and bus lines do not operate, but there is a network of buses called
 “Moonliners”, that feature regular connections on weekend nights and some connections on other

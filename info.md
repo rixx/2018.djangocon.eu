@@ -8,7 +8,7 @@ unclear to you, please [contact us](/contact)!
 
 <div class="information-buttons">
   <a class="information" href="/info/travelling">
-    Getting there
+    Getting here
   </a>
   <a class="information" href="/info/heidelberg">
     Getting around

@@ -4,10 +4,10 @@ layout: page
 
 ## Accessibility and Inclusivity
 
-As DjangoCon Europe team, we are committed to make DjangoCon Europe welcoming to as many people as
+As the DjangoCon Europe team, we are committed to make DjangoCon Europe welcoming to as many people as
 we can. Although we are a fairly diverse team, it is very likely that we have overlooked something –
 if that is the case, or if you feel left out by these statements, please [contact us](/contact)! We
-will do whatever we can to make DjangoCon Europe welcoming for you.
+will do whatever we can to make DjangoCon Europe a welcoming event for you.
 
 ### Code of Conduct
 
@@ -34,8 +34,7 @@ enter/exit, but leads to a room that will probably only be opened during break t
 
 Due to the limited space in the old building, it might be challenging if you have a very large
 electrical wheelchair. In this case, please contact us and we’ll figure out the possibilities.
-There is extensive information on the building’s accessibility on the website Heidelberg Hürdenlos
-(http://www.heidelberg.huerdenlos.de/index.php?id=980&huerdenlos[module_ratings][action]=detail&huerdenlos[module_ratings][dbid]=3789#TmViZW5laW5nYW5nIEk).
+There is extensive information on the building’s accessibility on the website [Heidelberg Hürdenlos](http://www.heidelberg.huerdenlos.de/index.php?id=980&huerdenlos[module_ratings][action]=detail&huerdenlos[module_ratings][dbid]=3789#TmViZW5laW5nYW5nIEk).
 This includes the width of most doors and areas, detailed information on all toilet facilities and
 much more. We are happy to translate the parts for you that are important for you, so do not
 hesitate to ask us.
@@ -95,7 +94,8 @@ of dress or decoration.
 
 ### Financial assistance
 
-...
+We are in the process of preparing a financial assistance program to help participants with ticket
+and travelling expenses who could not join otherwise.
 
 ### Crèche
 
