@@ -17,7 +17,7 @@ The conference venue is the beautiful Heidelberg [City Hall](http://www.heidelbe
     69117 Heidelberg
 
 You can find detailed information on how to reach the City Hall on [their
-website](http://www.heidelberg-kongresshaus.de/en/visitors/arrival-parking.html)
+website](http://www.heidelberg-kongresshaus.de/en/visitors/arrival-parking.html).
 
 
 ### Sprints venue
