@@ -16,13 +16,13 @@ a:hover {
 }
 
 h2 {
-    font-weight: normal;
-    text-transform: uppercase;
+    font-weight: bold;
+    color: #f58719;
     font-size: 22px;
 }
 h3 {
-    font-weight: normal;
-    text-transform: uppercase;
+    font-weight: bold;
+    color: #f58719;
     font-size: 20px;
 }
 code {
