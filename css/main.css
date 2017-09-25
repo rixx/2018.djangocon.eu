@@ -235,7 +235,7 @@ header.subnav {
 }
 .timeline li {
   position: relative;
-  margin: 2em 0;
+  margin: 10px 0;
 }
 .timeline li .timeline-bubble {
   position: absolute;
@@ -262,9 +262,6 @@ header.subnav {
   margin-bottom: 0;
 }
 @media only screen and (min-width: 1170px) {
-  .timeline li {
-    margin: 4em 0;
-  }
   .timeline li:first-child {
     margin-top: 0;
   }
