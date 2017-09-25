@@ -36,12 +36,13 @@ code {
     max-width: 940px;
     margin: auto;
 }
-.logo {
+div.logo {
     background: #f58718;
+    padding: 40px 0;
 }
 
 img.logo {
-  max-width: 940px;
+  max-width: 500px;
   display: block;
   margin: auto;
 }
