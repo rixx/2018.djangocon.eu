@@ -38,13 +38,13 @@ code {
 }
 div.logo {
     background: #f58718;
-    padding: 40px 0;
+    padding: 20px 20px;
+    text-align: center;
 }
-
 img.logo {
-  max-width: 500px;
-  display: block;
-  margin: auto;
+    max-width: 500px;
+    display: block;
+    margin: 20px auto 20px;
 }
 
 footer {
