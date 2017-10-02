@@ -187,31 +187,6 @@ header.subnav {
     color: #333;
 }
 /********* End Header ******************/
-@media(max-width: 940px) {
-    header h1 {
-        display: block;
-        font-size: 20px;
-        margin: 30px 10px 0 10px;
-    }
-    header .dateline {
-        font-size: 15px;
-    }
-    .container {
-        margin: 0 10px;
-    }
-    .site-navigation {
-        flex-wrap: wrap;
-    }
-    .site-navigation > li.separator {
-        display: none;
-        border: 0;
-    }
-    .site-navigation > li.menu-item {
-        width: 40%;
-        flex-grow: 1;
-        text-align: center;
-    }
-}
 /********* Begin Timeline **************/
 .timeline {
   position: relative;
@@ -229,16 +204,6 @@ header.subnav {
   height: 100%;
   width: 4px;
   background: #000;
-}
-@media only screen and (min-width: 1170px) {
-  .timeline {
-    margin-top: 3em;
-    margin-bottom: 3em;
-  }
-  .timeline::before {
-    left: 50%;
-    margin-left: -2px;
-  }
 }
 .timeline li {
   position: relative;
@@ -268,15 +233,6 @@ header.subnav {
 .timeline li:last-child {
   margin-bottom: 0;
 }
-@media only screen and (min-width: 1170px) {
-  .timeline li:first-child {
-    margin-top: 0;
-  }
-  .timeline li:last-child {
-    margin-bottom: 0;
-  }
-}
-
 .timeline li .timeline-content {
   display: block;
   position: relative;
@@ -321,4 +277,69 @@ header.subnav {
   padding: 20px 50px;
   margin: 8px;
   text-align: center;
+}
+
+/********* Responsiveness **************/
+@media (max-width: 940), screen {
+  img.logo {height: 150px;}
+  .wrapper, .site-navigation, {width: 90%;}
+  .information-buttons {flex-wrap: wrap;}
+    header h1 {
+        display: block;
+        font-size: 20px;
+        margin: 30px 10px 0 10px;
+    }
+    header .dateline {
+        font-size: 15px;
+    }
+    .container {
+        margin: 0 10px;
+    }
+    .site-navigation {
+        flex-wrap: wrap;
+    }
+    .site-navigation > li.separator {
+        display: none;
+        border: 0;
+    }
+    .site-navigation > li.menu-item {
+        width: 40%;
+        flex-grow: 1;
+        text-align: center;
+    }
+  .timeline {
+    margin-top: 3em;
+    margin-bottom: 3em;
+  }
+  .timeline::before {
+    left: 20px;
+    margin-left: -2px;
+  }
+  .timeline li .timeline-bubble {
+    left: 20px;
+  }
+  .timeline li:first-child {
+    margin-top: 0;
+  }
+  .timeline li:last-child {
+    margin-bottom: 0;
+  }
+  .timeline li .timeline-content {
+    left: 30px;
+    margin-left: 20px;
+    width: 80%;
+    padding: 2px 8px;
+  }
+  .timeline li:nth-child(2n) .timeline-content {
+    margin-left: 20px;
+  }
+  .timeline-content .date, .timeline-content .heading {
+    padding: .2em 0;
+  }
+}
+@media (max-width: 750px), screen {
+  img.logo {height: 90px;}
+}
+@media (max-width: 370px), screen {
+  img.logo {height: 70px;}
 }
