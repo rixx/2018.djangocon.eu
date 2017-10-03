@@ -280,7 +280,7 @@ header.subnav {
 }
 
 /********* Responsiveness **************/
-@media (max-width: 940), screen {
+@media screen and (max-width: 940px) {
   img.logo {height: 150px;}
   .wrapper, .site-navigation, {width: 90%;}
   .information-buttons {flex-wrap: wrap;}
@@ -337,9 +337,9 @@ header.subnav {
     padding: .2em 0;
   }
 }
-@media (max-width: 750px), screen {
+@media screen and (max-width: 750px) {
   img.logo {height: 90px;}
 }
-@media (max-width: 370px), screen {
+@media screen and (max-width: 370px) {
   img.logo {height: 70px;}
 }
