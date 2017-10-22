@@ -278,6 +278,26 @@ header.subnav {
   margin: 8px;
   text-align: center;
 }
+/********* End Information page ******/
+
+/********* Blog page **********/
+.blogpost {
+  border: 1px solid #ccc;
+  padding: 16px 32px;
+  color: #333;
+}
+.blogpost:hover {
+  background-color: #fff3d3;
+}
+.blogpost .title {
+  font-size: 18px;
+  color: #f58718;
+}
+.blogpost .date {
+  font-size: 14px;
+  color: #888;
+}
+/********* End Blog page ******/
 
 /********* Responsiveness **************/
 @media screen and (max-width: 940px) {
