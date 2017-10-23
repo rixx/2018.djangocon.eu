@@ -303,7 +303,7 @@ header.subnav {
 /********* Responsiveness **************/
 @media screen and (max-width: 940px) {
   img.logo {height: 150px;}
-  .wrapper, .site-navigation, {width: 90%;}
+  .wrapper {width: 90%;}
   .information-buttons {flex-wrap: wrap;}
     header h1 {
         display: block;
