@@ -1,6 +1,6 @@
 body {
-    font-family: Futura, "Open Sans", Helvetica, Arial, sans-serif;
-    font-size: 16px;
+    font-family: "Gandhi", Futura, "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 17px;
     line-height: 1.4;
     margin: 0;
     display: flex;
@@ -21,12 +21,12 @@ a:hover {
 h2 {
     font-weight: bold;
     color: #f58719;
-    font-size: 22px;
+    font-size: 24px;
 }
 h3 {
     font-weight: bold;
     color: #f58719;
-    font-size: 20px;
+    font-size: 22px;
 }
 code {
     display: block;
@@ -278,6 +278,9 @@ header.subnav {
   padding: 20px 50px;
   margin: 8px;
   text-align: center;
+}
+.information-buttons .information:hover {
+    color: white;
 }
 .information-buttons .information:first-child {
     margin-left: 0;
