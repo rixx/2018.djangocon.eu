@@ -16,8 +16,7 @@ plugins:
 
 # Pages permalink
 defaults:
-  -
-    scope:
+  - scope:
       type: "pages"
     values:
       permalink: /:path/:basename/
