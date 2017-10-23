@@ -88,7 +88,7 @@ change in a blog post!
       2017-05-26
     </div>
     <div class="heading">
-      Sprints Day 1
+      Sprints & Workshops Day 1
     </div>
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
@@ -96,7 +96,7 @@ change in a blog post!
       2017-05-27
     </div>
     <div class="heading">
-      Sprints Day 2
+      Sprints & Workshops Day 2
     </div>
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">

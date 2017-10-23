@@ -432,6 +432,9 @@ header.subnav {
   .timeline-content .date, .timeline-content .heading {
     padding: .2em 0;
   }
+  .frontpage-row .cell-container {
+      width: 100%;
+  }
 }
 @media screen and (max-width: 750px) {
   img.logo {height: 90px;}
