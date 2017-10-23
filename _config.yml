@@ -5,7 +5,7 @@ description: >
   DjangoConEurope is hosted in Heidelberg May 23-27th, 2018
 baseurl: ""
 url: ""
-permalink: /news/:title/
+permalink: /:title/
 twitter_username: DjangoConEurope
 excerpt_separator: "<!-- more -->"
 
@@ -14,12 +14,10 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-# Pages permalink
-defaults:
-  - scope:
-      type: "pages"
-    values:
-      permalink: /:path/:basename/
+collections:
+  posts:
+    output: true
+    permalink: /news/:title/
 
 navigation:
   - title: News
