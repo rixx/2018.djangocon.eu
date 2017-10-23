@@ -295,15 +295,16 @@ header.subnav {
   border: 1px solid #ccc;
   padding: 16px 32px;
   color: #333;
+  font-weight: normal;
 }
 .blogpost:hover {
   background-color: #fff3d3;
 }
 .blogpost .title {
-  font-size: 18px;
   color: #f58718;
+  font-weight: bold;
 }
-.blogpost .date {
+.date {
   font-size: 14px;
   color: #888;
 }
