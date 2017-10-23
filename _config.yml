@@ -14,6 +14,8 @@ plugins:
   - jekyll-feed
 
 navigation:
+  - title: News
+    url: /
   - title: Timeline
     url: /timeline
   - title: Information
@@ -40,8 +42,6 @@ navigation:
         url: /sponsoring/list
       - title: Become a Sponsor
         url: /sponsoring/youtoo
-  - title: News
-    url: /news
   - title: Contact
     url: /contact
 

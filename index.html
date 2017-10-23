@@ -1,0 +1,15 @@
+---
+layout: page
+---
+
+Take a look around this site, and if something is missing or unclear, please [contact us](/contact)!
+
+{% for post in site.posts %}
+<a href="{{ post.url }}">
+    <div class="blogpost">
+	<div class="title">{{ post.title }}</div>
+	<div class="date">{{ post.date }}</div>
+	<div class="excerpt">{{ post.excerpt }}</div>
+    </div>
+</a>
+{% endfor %}
