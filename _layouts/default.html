@@ -17,7 +17,7 @@
                 {% assign current_page = nil %}
                 {% for link in site.navigation %}
                     {% assign current = '' %}
-                    {% if (page.url contains link.url and link.url != "/") or page.url == link.url %}
+                    {% if page.url contains link.url %}
                         {% assign current = 'current' %}
                         {% assign current_page = link %}
                     {% endif %}

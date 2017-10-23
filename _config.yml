@@ -15,7 +15,7 @@ plugins:
 
 navigation:
   - title: News
-    url: /
+    url: /news
   - title: Timeline
     url: /timeline
   - title: Information
