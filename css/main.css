@@ -430,6 +430,9 @@ header.subnav {
     width: 80%;
     padding: 2px 8px;
   }
+  .timeline .relevant {
+    font-weight: 600;
+  }
   .timeline li:nth-child(2n) .timeline-content {
     margin-left: 20px;
   }

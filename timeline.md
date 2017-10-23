@@ -23,7 +23,7 @@ change in a blog post!
     <div class="date">
       2017-12-01
     </div>
-    <div class="heading">
+    <div class="heading relevant">
       Open ticket sale
     </div>
   </div></li>
@@ -52,7 +52,7 @@ change in a blog post!
     </div>
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
-    <div class="date">
+    <div class="date relevant">
       2017-04-15
     </div>
     <div class="heading">
@@ -100,7 +100,7 @@ change in a blog post!
     </div>
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
-    <div class="heading">
+    <div class="heading relevant">
       Goodbye!
     </div>
   </div></li>
