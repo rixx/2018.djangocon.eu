@@ -23,8 +23,8 @@ more than happy to answer all your emails at sponsors@djangocon.eu.
 ### Why sponsor?
 
 * If you are making a product that is useful to Django developers, such as developer tools, hosting platforms or
-  SaaS services, this is the **perfect marketing opportunity** for you. A booth at our conference will enable you
-  to meet hundreds of potential customers of your product.
+  SaaS products, this is the **perfect marketing opportunity** for you. A booth at our conference will enable you
+  to meet hundreds of potential customers for your product.
 
 * There is no better place to **recruit Django developers**. DjangoCon Europe is the largest single gathering of
   Django developers in the world. Sponsoring DjangoCon Europe will put you directly in front of your candidate pool,
@@ -39,7 +39,7 @@ more than happy to answer all your emails at sponsors@djangocon.eu.
   attract 40 % to 50 % female speakers and attendees from very different cultural and social backgrounds. We are
   committed to continue this tradition and we need strong partners to make this possible.
 
-* Your own **employees** can profit a lot by attending DjangoCon Europe. Not only does the conference provide valuable
+* Your own **employees** can profit a lot from attending DjangoCon Europe. Not only does the conference provide valuable
   education in form of talks and workshops that improve their professional and technical skills, it is also the single
   best place to start building a network within a community of potential future partners.
 
@@ -49,13 +49,13 @@ DjangoCon Europe is run entirely by volunteers, on a non-profit basis. All the s
 covering the costs of the event and reducing the cost for our attendees. This includes:
 
 * catering and refreshments
-* venue hire
+* venue rent
 * technical services
 * financial assistance for travel and accommodation for speakers and attendees on lower budgets
-* video recording for talks
+* video recordings for talks
 * live speech-to-text transcription of all talks
 * conference merchandise and the conference program booklet
-* free child care for our attendees
+* free child care for our attendees and their children
 * basic running expenses
 
 Anything left over after the conference will be donated to the Django Software Foundation or used for future non-profit open source events.
