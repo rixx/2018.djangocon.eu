@@ -2,7 +2,7 @@
 title: DjangoCon Europe 2018
 email: 2018@djangocon.eu
 description: >
-  The blog for DjangoCon Europe 2018 in Heidelberg, Germany
+  DjangoConEurope is hosted in Heidelberg May 23-27th, 2018
 baseurl: ""
 url: ""
 permalink: /news/:title/
