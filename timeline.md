@@ -52,10 +52,10 @@ change in a blog post!
     </div>
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
-    <div class="date relevant">
+    <div class="date">
       2017-04-15
     </div>
-    <div class="heading">
+    <div class="heading relevant">
       Announce schedule
     </div>
   </div></li>
