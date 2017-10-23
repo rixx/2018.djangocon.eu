@@ -1,0 +1,127 @@
+---
+layout: page
+---
+
+<h2>Welcome!</h2>
+<p>
+    Welcome! This site is still work in progress, but it tries to collect the most important information for
+    DjangoCon Europe 2018 in Heidelberg.
+</p>
+
+<div class="frontpage-row">
+    <div class="cell-container">
+        <a href="/timeline/" class="cell">
+            <div class="cell-textcontent">
+                <h3>At a glance</h3>
+                <ul>
+                    <li>DjangoCon Europe will take place in 2018!</li>
+                    <li>It will take place in Heidelberg, Germany.</li>
+                    <li>The conference days are May 23rd–25th.</li>
+                    <li>The sprint days are May 26th–27th.</li>
+                </ul>
+            </div>
+        </a>
+    </div>
+    <div class="cell-container">
+        <a href="/news/" class="cell">
+            <div class="cell-textcontent">
+                <h3>Latest news</h3>
+                <ul>
+                    {% for post in site.posts limit:3 %}
+                        <li>{{ post.title }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </a>
+    </div>
+    <div class="cell-container">
+        <label for="mce-EMAIL" class="cell">
+            <div class="cell-textcontent">
+                <h3>Newsletter</h3>
+                <form action="https://rose-conferences.us16.list-manage.com/subscribe/post?u=cbdcd50b247322e1cd933e89a&amp;id=6021912195"
+                      method="post" class="validate newsletter" target="_blank" novalidate>
+                    May we notify you when we have more information or news on the conference?
+                    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL"
+                           placeholder="email address" required>
+                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                        <input type="text" name="b_cbdcd50b247322e1cd933e89a_6021912195" tabindex="-1" value="">
+                    </div>
+                    <div class="clear">
+                        <button type="submit" name="subscribe" value="Subscribe">Subscribe</button>
+                    </div>
+                    <div class="clear"></div>
+                </form>
+            </div>
+        </label>
+    </div>
+    <div class="cell-container">
+        <a href="/sponsoring/" class="cell">
+            <div class="cell-textcontent">
+                <h3>Sponsor us!</h3>
+                We are currently looking for sponsors to be able to run this conference. Contact us at
+                sponsors@djangocon.eu or click here for more information!
+            </div>
+            <div class="clear"></div>
+        </a>
+    </div>
+    <div class="cell-container">
+        <a href="/info/" class="cell cell-right-photo">
+            <img src="/assets/img/panorama1.jpg" alt="Panorama view of Heidelberg" class="cell-photo">
+            <div class="cell-textcontent">
+                <h3>Heidelberg</h3>
+                Click here to find more information on our beautiful venues as well as how to best travel to the city.
+            </div>
+            <div class="clear"></div>
+        </a>
+    </div>
+    <div class="cell-container">
+        <a href="/tickets/" class="cell">
+            <div class="cell-textcontent">
+                <h3>Tickets</h3>
+                Tickets will be available right here in December.
+            </div>
+            <div class="clear"></div>
+        </a>
+    </div>
+    <div class="cell-container">
+        <a href="/conduct/" class="cell">
+            <div class="cell-textcontent">
+                <h3>Code of Conduct</h3>
+                We are committed to creating a welcoming atmosphere.
+                Therefore, all participants are expected to show respect
+                and courtesy to other participants throughout the event.
+            </div>
+            <div class="clear"></div>
+        </a>
+    </div>
+    <div class="cell-container">
+        <a href="/access/" class="cell">
+            <div class="cell-textcontent">
+                <h3>Accessibility</h3>
+                We do our best to make it possible for everyone to come.
+                From venue accessibility to financial aid, click here to find
+                out more information and do not hesitate to ask us if you need
+                to know more.
+            </div>
+            <div class="clear"></div>
+        </a>
+    </div>
+    <div class="cell-container">
+        <a href="/contact/" class="cell">
+            <div class="cell-textcontent">
+                <h3>Contact</h3>
+                Drop us a line at 2018@djangocon.eu if there is anything we can
+                do for you!
+            </div>
+            <div class="clear"></div>
+        </a>
+    </div>
+</div>
+
+<p>
+    <small>
+        Photos: Tobias Schwerdt ⓒ Heidelberg Marketing GmbH
+    </small>
+</p>

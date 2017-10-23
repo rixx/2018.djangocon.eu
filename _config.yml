@@ -35,13 +35,8 @@ navigation:
     url: /conduct
   - title: Accessibility
     url: /access
-  - title: Sponsors
+  - title: Sponsoring
     url: /sponsoring
-    subpages:
-      - title: Our Sponsors
-        url: /sponsoring/list
-      - title: Become a Sponsor
-        url: /sponsoring/youtoo
   - title: Contact
     url: /contact
 
