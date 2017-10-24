@@ -29,7 +29,7 @@ change in a blog post!
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
     <div class="date">
-      2017-03-01
+      2018-03-01
     </div>
     <div class="heading">
       Close Call for Participation
@@ -37,7 +37,7 @@ change in a blog post!
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
     <div class="date">
-      2017-04-05
+      2018-04-05
     </div>
     <div class="heading">
       Contact selected speakers
@@ -45,7 +45,7 @@ change in a blog post!
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
     <div class="date">
-      2017-04-09
+      2018-04-09
     </div>
     <div class="heading">
       Announce speaker lineup
@@ -53,7 +53,7 @@ change in a blog post!
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
     <div class="date">
-      2017-04-15
+      2018-04-15
     </div>
     <div class="heading relevant">
       Announce schedule
@@ -61,7 +61,7 @@ change in a blog post!
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
     <div class="date">
-      2017-05-23
+      2018-05-23
     </div>
     <div class="heading">
       Talks Day 1
@@ -69,7 +69,7 @@ change in a blog post!
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
     <div class="date">
-      2017-05-24
+      2018-05-24
     </div>
     <div class="heading">
       Talks Day 2
@@ -77,7 +77,7 @@ change in a blog post!
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
     <div class="date">
-      2017-05-25
+      2018-05-25
     </div>
     <div class="heading">
       Talks Day 3
@@ -85,7 +85,7 @@ change in a blog post!
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
     <div class="date">
-      2017-05-26
+      2018-05-26
     </div>
     <div class="heading">
       Sprints & Workshops Day 1
@@ -93,7 +93,7 @@ change in a blog post!
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
     <div class="date">
-      2017-05-27
+      2018-05-27
     </div>
     <div class="heading">
       Sprints & Workshops Day 2
