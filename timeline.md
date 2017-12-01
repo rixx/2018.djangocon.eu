@@ -29,7 +29,15 @@ change in a blog post!
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
     <div class="date">
-      2018-03-01
+      2018-01-31
+    </div>
+    <div class="heading">
+      End of Early Birds ticket sale
+    </div>
+  </div></li>
+  <li><div class="timeline-bubble"></div><div class="timeline-content">
+    <div class="date">
+      2018-02-01
     </div>
     <div class="heading">
       Close Call for Participation
@@ -37,10 +45,26 @@ change in a blog post!
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
     <div class="date">
-      2018-04-05
+      2018-02-01
+    </div>
+    <div class="heading">
+      End of opportunity grant request submission
+    </div>
+  </div></li>
+  <li><div class="timeline-bubble"></div><div class="timeline-content">
+    <div class="date">
+      2018-03-01
     </div>
     <div class="heading">
       Contact selected speakers
+    </div>
+  </div></li>
+  <li><div class="timeline-bubble"></div><div class="timeline-content">
+    <div class="date">
+      2018-03-01
+    </div>
+    <div class="heading">
+      Notifications about opportunity grant requests
     </div>
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
