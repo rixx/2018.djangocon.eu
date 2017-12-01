@@ -15,7 +15,7 @@ Today, as our [timeline](/timeline) so cleverly predicted, marks the start of ou
 start out with **Early Bird 🐤 Tickets** for a reduced price. Early Bird tickets are currently planned to be available until
 end of January, so be sure to get your's soon!
 
-Buying an Early Bird 🐤 Ticket isn't just great for you (woo reduced prices!), it also helps us to estimate the
+Buying an Early Bird 🐤 Ticket isn't just great for you (woo reduced prices!), it also helps us estimate the
 amount of attendees we will have, and to give us more time to handle any special requirements you may have.
 
 You will notice that our ticket pricing allows you to input a ticket price of your choice. With the additional money, we
