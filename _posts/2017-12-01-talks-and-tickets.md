@@ -12,8 +12,8 @@ if you want to be a regular participant or a speaker, now's the time to get star
 ### Tickets
 
 Today, as our [timeline](/timeline) so cleverly predicted, marks the start of our ticket sale – as tradition demands, we
-start out with **Early Bird 🐤 Tickets** for a reduced price. Early Bird tickets will only be available until the fixed
-number of tickets is sold, so get them while you can!
+start out with **Early Bird 🐤 Tickets** for a reduced price. Early Bird tickets are currently planned to be available until
+end of January, so be sure to get your's soon!
 
 Buying an Early Bird 🐤 Ticket isn't just great for you (woo reduced prices!), it also helps us by helping us estimate the
 amount of attendees we will have, and to give us more time to handle any special requirements you may have.
