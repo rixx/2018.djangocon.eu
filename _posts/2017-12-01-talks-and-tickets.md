@@ -18,10 +18,11 @@ number of tickets is sold, so get them while you can!
 Buying an Early Bird 🐤 Ticket isn't just great for you (woo reduced prices!), it also helps us by helping us estimate the
 amount of attendees we will have, and to give us more time to handle any special requirements you may have.
 
-You will notice that our ticket pricing allows you to input a ticket price of your choice – all money that you pay
-beyond the required amount will go to our [opportunity grant](/grants) program, helping people with little resources,
-and/or a lack of representation in our community to participate in DjangoCon Europe 2018. Please choose to give more if
-you can – you'll have a very direct impact on how wonderful our conference and our community will be.
+You will notice that our ticket pricing allows you to input a ticket price of your choice. With the additional money, we
+are able to make it a more inclusive conference by investing in accessibility improvements as well as our 
+[opportunity grant](/grants) program, helping people with little resources, and/or a lack of representation in our community
+to participate in DjangoCon Europe 2018. Please choose to give more if you can – you'll have a very direct impact on how
+wonderful our conference and our community will be.
 
 We want to extend our thanks to the (Django-based!) <a href="https://pretix.eu">pretix.eu</a> for hosting our presale.
 
