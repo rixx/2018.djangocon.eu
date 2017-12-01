@@ -41,7 +41,7 @@ You have until **February 1st** to submit your request, to give us sufficeint ti
 gives you sufficient time to plan your journey, handle visa applications, and answer all questions you may have.
 
 <div class="information-buttons">
-  <a class="information" href="https://pretix.eu/rose/djangocon">
+  <a class="information" href="/grants">
     Read about Opportunity Grants!
   </a>
 </div>
