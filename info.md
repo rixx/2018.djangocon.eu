@@ -21,7 +21,7 @@ unclear to you, please [contact us](/contact)!
   <a class="information" href="/info/venues">
     Venues
   </a>
-  <a class="information" href="/accessibility">
+  <a class="information" href="/access">
     Accessibility
   </a>
 </div>
