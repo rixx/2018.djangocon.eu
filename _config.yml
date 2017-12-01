@@ -35,12 +35,16 @@ navigation:
         url: /info/accomodation
       - title: Venues
         url: /info/venues
+      - title: Accessibility
+        url: /access
   - title: Tickets
     url: /tickets
+  - title: CfP
+    url: https://2018.djangocontent.eu/hd/cfp
+  - title: Opportunity Grants
+    url: /grants
   - title: Code of Conduct
     url: /conduct
-  - title: Accessibility
-    url: /access
   - title: Sponsoring
     url: /sponsoring
   - title: Contact
