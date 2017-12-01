@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Talks and Tickets
-date: 2017-12-01 23:59
+date: 2017-12-01 16:40
 ---
 
 Lots and lots of good news – today is the start of both our ticket sale **and** our Call for Participation, so no matter
