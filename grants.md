@@ -42,7 +42,7 @@ These groups include, but are not limited to:
 * people who have experienced trauma and its aftermath (PTSD, anxiety, etc)
 * people living with or recovering from substance abuse
 
-**The closing date for grant applications is February 1st (CET)** - same as the call for papers. If you would like to submit in the CfP and need a grant if you are selected, please ensure you fill in both the CfP form and the opportunity grant application form.
+**The closing date for grant applications is February 1st (CET)** - same as the call for papers. We aim to inform you of the results by mid-February. If you would like to submit in the CfP and need a grant if you are selected, please ensure you fill in both the CfP form and the opportunity grant application form.
 
 Lastly, we know that for some people it can be difficult to feel like it's ok for you to apply. That's why we want to stress:
 
