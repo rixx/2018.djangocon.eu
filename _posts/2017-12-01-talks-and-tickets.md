@@ -35,7 +35,7 @@ wonderful our conference and our community will be.
 
 We are very proud of our [opportunity grant](/grants) program – this is what you may know from other or previous
 conferences as the financial aid program.
-If (either as an attendee or a speaker) paying acommodations and travelling expenses would be difficult for you, or you belong to a marginalized or underrepresented group in tech, please check it out.
+If (either as an attendee or a speaker) paying acommodations and travelling expenses would be difficult for you, especially if you belong to a marginalized or underrepresented group in tech, please check it out.
 
 You have until **February 1st** to submit your request, to give us sufficeint time to go through requests, which in turn
 gives you sufficient time to plan your journey, handle visa applications, and answer all questions you may have.
