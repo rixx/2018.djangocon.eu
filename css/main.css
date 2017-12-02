@@ -271,7 +271,7 @@ header.subnav {
   display: flex;
   flex-direction: row;
 }
-.information-buttons .information {
+.information-buttons .information, .information-buttons .notice {
   border: 3px solid #f58718;
   display: block;
   flex-grow: 1;

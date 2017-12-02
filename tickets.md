@@ -15,6 +15,12 @@ are able to make it a more inclusive conference by investing in accessibility im
 to participate in DjangoCon Europe 2018. Please choose to give more if you can – you'll have a very direct impact on how
 wonderful our conference and our community will be.
 
+
+<div class="information-buttons"><div class="notice">
+   💸 If you live (or do business in) the Euro zone, please consider using a <strong>bank transfer</strong>
+   instead of a credit card payment, as credit card fees run considerably higher. Thank you! 💸
+</div></div>
+
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/rose/djangocon/widget/v1.css">
 <script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
 <pretix-widget event="https://pretix.eu/rose/djangocon/"></pretix-widget>
