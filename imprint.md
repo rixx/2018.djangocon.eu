@@ -17,4 +17,4 @@ Love letters and similar things on paper should be addressed to:
 ROSE is registered at Amtsgericht Mannheim with the number VR 701861, and is represented by its board:
 Tobias Kunze, Andreas Madsack and Raphael Michel.
 
-VAT ID: (not yet assigned)
+VAT ID: DE314813265
