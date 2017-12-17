@@ -312,6 +312,40 @@ header.subnav {
 /********* End Blog page ******/
 
 /********* Front page ******/
+.frontpage-cols {
+    display: flex;
+    flex-direction: row;
+}
+.frontpage-cols .frontpage-maincol {
+    flex: 1;
+}
+.frontpage-cols .frontpage-sponsorcol {
+    min-width: 150px;
+    flex: 0;
+    padding: 10px 20px;
+}
+.frontpage-sponsorcol h3 {
+    margin-top: 0;
+}
+.center {
+    text-align: center;
+}
+a img {
+    border: 0;
+}
+.frontpage-sponsorcol a {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+}
+.frontpage-sponsorcol a:hover {
+    background: transparent;
+}
+.frontpage-sponsorcol a img {
+    width: 100%;
+    margin-bottom: 5px;
+    height: auto;
+}
 .frontpage-row {
     display: flex;
     flex-wrap: wrap;
@@ -380,6 +414,29 @@ header.subnav {
 }
 /********* End front page ******/
 
+.sponsorrow {
+    display: flex;
+    flex-direction: row;
+}
+.sponsorrow a.sponsorlogo {
+    width: 300px;
+    min-width: 300px;
+    display: block;
+    flex: 0;
+}
+.sponsorrow a.sponsorlogo:hover {
+    background: transparent;
+}
+.sponsorrow a.sponsorlogo img {
+    border: 0;
+    width: 100%;
+    height: auto;
+}
+.sponsorrow .sponsortext {
+    margin-left: 30px;
+    margin-top: 0;
+}
+
 /********* Responsiveness **************/
 @media screen and (max-width: 940px) {
   img.logo {height: 150px;}
@@ -443,7 +500,40 @@ header.subnav {
   .frontpage-row .cell-container {
       width: 100%;
   }
+  .frontpage-cols {
+    display: block;
+  }
+  .frontpage-cols .frontpage-sponsorcol {
+    padding: 0;
+  }
+
+    .sponsorrow {
+        display: block;
+    }
+    .sponsorrow a.sponsorlogo {
+        width: 100%;
+        max-width: 300px;
+        margin: auto;
+        display: block;
+        min-width: inherit;
+    }
+    .sponsorrow a.sponsorlogo img {
+        width: 100%;
+        max-width: 300px;
+    }
+    .sponsorrow .sponsortext {
+        margin-left: 0;
+        margin-top: 10px;
+    }
 }
+
+@media screen and (max-width: 940px) and (min-width: 380px) {
+    .frontpage-sponsorcol a {
+        display: inline-block;
+        max-width: 50%;
+    }
+}
+
 @media screen and (max-width: 750px) {
   img.logo {height: 90px;}
 }

@@ -47,6 +47,11 @@ navigation:
     url: /conduct
   - title: Sponsoring
     url: /sponsoring
+    subpages:
+      - title: Sponsor us
+        url: /sponsoring
+      - title: Our sponsors
+        url: /sponsoring/sponsors
   - title: Contact
     url: /contact
 

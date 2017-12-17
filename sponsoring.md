@@ -18,6 +18,9 @@ more than happy to answer all your emails at sponsors@djangocon.eu.
   <a class="information" href="mailto:sponsors@djangocon.eu">
     Contact us at sponsors@djangocon.eu
   </a>
+  <a class="information" href="/sponsoring/sponsors/">
+    Look who's sponsoring us
+  </a>
 </div>
 
 ### Why sponsor?
@@ -66,5 +69,8 @@ Anything left over after the conference will be donated to the Django Software F
   </a>
   <a class="information" href="mailto:sponsors@djangocon.eu">
     Contact us at sponsors@djangocon.eu
+  </a>
+  <a class="information" href="/sponsoring/sponsors/">
+    Look who's sponsoring us
   </a>
 </div>
