@@ -4,8 +4,8 @@ title: Speaker Mentors
 date: 2018-01-05 10:00
 ---
 
-As our CfP goes into its second half, we're ready to announce speaker mentors – help and advice if you're not sure what
-to submit to DjangoCon Europe.
+As our CfP goes into its second half, we're ready to announce speaker mentors – they provide help and advice if you're
+not sure what to submit to DjangoCon Europe.
 
 <!-- more -->
 
@@ -13,7 +13,7 @@ to submit to DjangoCon Europe.
 
 While DjangoCon Europe has much more to offer than just talks, the talks are still the core of the conference, around
 which everything else is built. To make DjangoCon Europe talks great for every attendee, we'll try to have some
-interesting talks for everyone – and the best thing you can do to help, is to submit your talk!
+interesting talks for everyone – and the best thing you can do to help is to submit your talk!
 
 ### Community
 
