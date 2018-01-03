@@ -15,9 +15,24 @@ While DjangoCon Europe has much more to offer than just talks, the talks are sti
 which everything else is built. To make DjangoCon Europe talks great for every attendee, we'll try to have some
 interesting talks for everyone – and the best thing you can do to help is to submit your talk!
 
+You're not sure what you could talk about? Consider these ideas (and keep in mind that this list is far from
+exhaustive):
+
+- Have you recently solved a problem at work or school that required learning a new technology? Tell us what you
+  learned!
+- Have you launched something that went really well? Write a case study! Even better – did it go really badly? Tell us
+  how to avoid the mistakes you made!
+- Do you have detailed knowledge about a non-computing area (say, music, or art, or history)? Are there stories from
+  those communities about project management, communicating, or anything else that the Django community would benefit
+  from learning about?
+- Do you belong to a particular cultural, cosial, or langauge grop that causes you problems when interacting with
+  technology? Give us the "what everyone in tech should know about X" talk!
+- Is there something unexpected you made Django do, or an uncommon bug you ran into, hunted, reported and fixed? Or is
+  there another little known process within Django or the Django community you ran into? Tell us about your experiences!
+
 ### Community
 
-Because we're not just looking for any old tech talk – we're looking for talks from, by (and about) our community. No
+Because we're not just looking for any old tech talk – we're looking for talks from, by, and about our community. No
 issue relating to Django and the Django community is too big or too small to warrant a talk slot, open slots permitting.
 
 Now, we know that submitting a talk can be nerve-wracking even for experienced speakers, and even more so to people who
@@ -30,7 +45,7 @@ a talk that's already half way done.
   dozen countries.
 - [Russell](mailto:russell@keith-magee.com) has spoken (rapidly) about various Python and Django projects, as well as
   his personal experience in tech, and is a serial DjangoCon visitor.
-- [Tom](mailto:tom@tomchristie.com) has spoken about API design, Django Rest Framework and sustainable open source
+- [Tom](mailto:tom@tomchristie.com) has spoken about API design, Django REST Framework and sustainable open source
   development.
 
 Don't hesitate to contact them if you aren't *quite* ready to submit your DjangoCon Europe talk – or, if you'd like to
