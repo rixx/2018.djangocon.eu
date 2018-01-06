@@ -4,66 +4,88 @@ layout: page
 
 ## Code of Conduct
 
-DjangoCon Europe aims to be a welcoming event where people meet in a friendly environment.
-Accordingly, all participants are expected to show respect and courtesy to other participants
-throughout the conference.
+Everybody who participates in DjangoCon Europe in one way or another is required to conform to this Code of Conduct (CoC). This includes attendees, speakers, sponsors, organisers and volunteers.
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and
-volunteers at DjangoCon Europe 2018 event are required to conform to the following Code of Conduct.
-Organizers will enforce this code before and throughout the event (including related activites such
-as the social events).
+The organisers will introduce a Code of Conduct team that will be primarily responsible for handling any incidents. The CoC applies before and throughout the event (including related activities such as social events, and social media).
 
-### In short
+## Why do we have a Code of Conduct?
 
-* DjangoCon Europe is dedicated to providing a harassment-free conference experience for everyone,
-  regardless of gender, sexual orientation, disability, physical appearance, body size, race, or
-  religion.
-* We do not tolerate harassment of conference participants in any form.
-* Sexual language and imagery are not appropriate for any conference venue, including talks, evening
-  events, and the conference hotel.
-* Be kind to others. Do not insult or put down other attendees. Behave professionally. Don’t publish
-  individual photographs of people without their consent. Remember that harassment and sexist,
-  racist, or exclusionary jokes are not appropriate for DjangoCon Europe.
-* Conference participants violating these rules may be sanctioned or expelled from the conference
-  without a refund at the discretion of the conference organizers.
+Our goals with having this Code of Conduct are:
 
-### Longer version
+* Helping everyone feel safe and included. Many attendees are first timers, or have had poor experiences in other events. We want to set the expectation that harassment and other unpleasant behaviour are not acceptable. So that if people do have an unpleasant experience, they know that’s not neither the norm nor acceptable to us as a community.
+* Helping to build trust that if an incident is reported, we will not respond with victim blaming, and that we will do a thorough investigation. Even, for example, if the incident concerns someone in a position of power.
+* Informing everyone of the expected behaviour. We are a diverse community, and having a Code of Conduct makes the expectations of everybody's behaviour explicit and transparent.
+* Having a framework for report handling. The Code of Conduct is the basis for dealing with a report, assessing whether the CoC was violated, and what action should be taken.
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability,
-physical appearance, body size, race, religion, sexual images in public spaces, deliberate
-intimidation, stalking, following, harassing photography or recording, sustained disruption of talks
-or other events, inappropriate physical contact, and unwelcome sexual attention.
+### Our Code of Conduct
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+* Be kind and considerate to others. Do not insult or put down other attendees. Behave professionally.
+* We are dedicated to providing a harassment-free conference experience for everyone, regardless of race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
+* We do not tolerate harassment of conference participants in any form. This includes offensive comments related to the categories above, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, violent threats or language, inappropriate physical contact, and unwelcome sexual attention. Advocating for, or encouraging, any of the above behaviour is also not acceptable.
+* Sexual language and imagery are not appropriate for any venue to which the CoC applies.
+* Don’t publish individual photographs of people without their consent.
+* Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive and unwelcoming to those around you. Excessive swearing and offensive jokes are not appropriate for DjangoCon Europe.
 
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes
-can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for
-DjangoCon Europe.
+### Where does the Code of Conduct apply?
 
-If a participant engages in harassing behavior, the conference organizers may take any action they
-deem appropriate, including a warning to the offender or expulsion from the conference with no
-refund.
+This Code of Conduct applies to all conference related spaces. That includes, but is not limited to:
 
-We expect participants to follow these rules at all conference venues, the conference hotel, and
-conference-related social events.
+* The conference venue(s)
+* The conference hotel(s)
+* Any conference related social activities
+* Slack channels, tweets with the conference hashtag, and other online media
 
-### Reporting harassment
+The Code of Conduct does not exclusively apply to events on the conference agenda. For example, if after a scheduled social event you go to a bar with a group of fellow participants, and someone harasses you there, we would still treat that as a CoC violation.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns,
-please contact the Conduct team immediately either in person, or by sending an email to
+### What can happen if the CoC is violated?
+
+In case of a Code of Conduct violation, some of the most common actions organisers may take are:
+
+* Demanding that a participant stops their behaviour.
+* Demanding that a participant prevents further contact with certain other participants.
+* Cancelling a conference talk.
+* Removing a participant from the conference, without refund.
+
+The action taken is at the discretion of the Code of Conduct team. Participants are expected to comply immediately, and further action may be taken in case a participant does not comply. A record will be kept of all incidents. 
+
+### Where to report incidents
+
+If a Code of Conduct incident happens to you, or witness it happening to someone else, please contact the CoC team immediately either in person, or by sending an email to
 conduct@djangocon.eu.
 
-If the matter is especially urgent, please notify DjangoCon Europe staff via
-[email](mailto:conduct@djangocon.eu). We will provide more instant points of contact (Slack, phone)
-once we are closer to the conference.
+Code of Conduct team members will be introduced in person at the conference. You can approach any of them at any time to discuss an incident. We will also post their names closer to the conference. You can also ask any other staff to help you find them at the conference. We will provide more instant points of contact (Slack, phone) once we are closer to the conference.
 
-If you’re currently afraid of your physical safety or are in danger, contact local law enforcement
-in Germany:
+### Guidelines for reporting incidents
+
+Please do not feel like you may be a burden to us by reporting incidents. Even if you happen to report multiple incidents during the conference. We rather consider reports an opportunity for us to act: by knowing about an incident, we can act on it, and often prevent it from continuing or repeating. But if we don’t know, we can’t take action.
+
+If you are not sure whether the situation was a Code of Conduct violation, or whether it applied to that particular space, we encourage you to still report it. We would much rather have a few extra reports where we decide to take no action, rather than miss a report of an actual violation. We do not look negatively on you if we find the incident is not a violation. And knowing about incidents that are not violations, or happen outside our spaces, can also help us to improve the Code of Conduct or the processes surrounding it.
+
+In your report please include, when possible:
+
+* Your contact info (so we can get in touch with you)
+* Names (real, nicknames, or pseudonyms) of any individuals involved. If there were other witnesses besides you, please try to include them as well.
+* When and where the incident occurred. Please be as specific as possible.
+* Your account of what occurred. If there is a written record (e.g. tweets or slack messages) please include screenshots, or otherwise a link.
+* Any extra context you believe existed for the incident.
+* If you believe this incident is ongoing.
+* Any other information you believe we should have.
+
+If you don’t have some of this information, or not at this time, please still make the report anyways.
+
+If you feel unsafe reporting in person, you may choose someone to represent you. In this case, we'd need their contact information, but we'd ask you to make clear that this person represents you.
+
+We follow specific guidelines when handling a report, which we will publish closer to the conference. This helps us to handle incidents professionally.
+
+### Emergencies
+
+If you’re currently afraid of your physical safety or are in danger, contact local law enforcement in Germany:
 
 - Emergency (Fire, Medical, Police): 112
 - Police directly: 110
 
-The DjangoCon staff is well informed on how to deal with the incident and how to further proceed
-with the situation. Conference staff will be happy to help participants contact hotel/venue security
-or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel
-safe for the duration of the conference. We value your attendance.
+### Other assistance
+
+Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. However, we will not contact security or law enforcement without your consent, except when not doing so would create significant danger for other participants.
+
+We value your attendance, and look forward to seeing you at DjangoCon Europe.
