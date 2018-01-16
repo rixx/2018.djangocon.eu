@@ -27,3 +27,19 @@ layout: page
     Sponsor us!
   </a>
 </div>
+
+### Bronze sponsors
+
+<div class="sponsorrow">
+    <a href="https://www.django-verein.de" class="sponsorlogo">
+        <img src="/assets/img/sponsors/ddv.svg">
+    </a>
+</div>
+
+### Opportunity grants sponsors
+
+<div class="sponsorrow">
+    <a href="https://python-verband.org" class="sponsorlogo">
+        <img src="/assets/img/sponsors/pysv.svg">
+    </a>
+</div>
