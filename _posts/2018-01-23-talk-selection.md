@@ -15,8 +15,8 @@ submissions as a submitter.
 
 ### Composition
 
-First off, a warning: all of the following numbers are approximate – we don’t know the future, and we may have to adjust
-to changed circumstances in a number of ways.
+First off, a warning: all of the following numbers are **approximate and may change** – we don’t know the future, and we
+may have to adjust to changed circumstances in a number of ways.
 
 DjangoCon Europe has three conference days reserved for talks (followed by two days of sprints with tutorials on the
 side). Past experience shows that more than 10 talks per day (plus room for lightning talks) is a bit much, so we’re
