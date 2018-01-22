@@ -20,7 +20,8 @@ per direction. From the regional train station, you can reach Heidelberg with tr
 connections that take about 1hour and 50 minutes and cost 13 to 22 EUR.
 
 You can check train connections and buy tickets (see notes below at „By train“)
-[at the DB website](https://www.bahn.com/en/view/index.shtml).
+[at the DB website](https://www.bahn.com/en/view/index.shtml). You'll want to use the station
+"Frankfurt(M)Flughafen".
 
 The long-distance bus company Flixbus operates direct connections from the airport to Heidelberg up
 to 20 times a day. They sell tickets from 7 EUR upwards to 18 EUR depending on availability, but
