@@ -21,6 +21,20 @@ layout: page
         squads.
     </p>
 </div>
+<div class="sponsorrow">
+    <a href="https://www.paessler.com/" class="sponsorlogo">
+        <img src="/assets/img/sponsors/paessler.svg">
+    </a>
+    <p class="sponsortext">
+        Paessler AG’s award winning PRTG Network Monitor is a powerful, affordable and easy-to-use solution for
+        monitoring IT infrastructure. Over 200,000 IT administrators in more than 170 countries rely on PRTG to monitor
+        their networks.  Founded in 1997 and based in Nuremberg, Germany, Paessler AG remains a privately held company
+        that is recognized as both a member of the Cisco Solution Partner Program and a VMware Technology Alliance
+        Partner. Paessler AG uses Django to develop important parts of their business infrastructure. As they have
+        experienced the benefits of the Django community themselves, sponsoring DjangoCon seems like a great way to get
+        in touch.
+    </p>
+</div>
 
 <div class="information-buttons">
   <a class="information" href="/sponsoring/">
