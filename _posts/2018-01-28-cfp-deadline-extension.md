@@ -12,8 +12,8 @@ On February 3rd, [global diversity CfP day](https://www.globaldiversitycfpday.co
 accumulation of workshops to help first time speakers submit proposals to all kinds of conferences and events.
 
 DjangoCon Europe is firmly committed to a diverse community, so we couldn't let this day pass just outside our original
-deadline of January 31st. We've decided to extend our deadlines (both for the opportunity grants and the CfP) until
-**February 6th**. We look forward to your submissions!
+deadline of February 1st. We've decided to extend our deadlines (both for the opportunity grants and the CfP) until
+**February 6th**, 23:59 CET. We look forward to your submissions!
 
 <div class="information-buttons">
   <a class="information" href="https://2018.djangocontent.eu/hd/cfp">
