@@ -37,7 +37,7 @@ change in a blog post!
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
     <div class="date">
-      2018-02-01
+      2018-02-06
     </div>
     <div class="heading">
       Close Call for Participation
@@ -45,7 +45,7 @@ change in a blog post!
   </div></li>
   <li><div class="timeline-bubble"></div><div class="timeline-content">
     <div class="date">
-      2018-02-01
+      2018-02-06
     </div>
     <div class="heading">
       End of opportunity grant request submission
