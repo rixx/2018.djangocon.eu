@@ -40,6 +40,8 @@ If (either as an attendee or a speaker) paying acommodations and travelling expe
 You have until **February 1st** to submit your request, to give us sufficeint time to go through requests, which in turn
 gives you sufficient time to plan your journey, handle visa applications, and answer all questions you may have.
 
+**Edit: We have extended the deadline until February 6th! [Read more here](https://2018.djangocon.eu/news/cfp-deadline-extension/).**
+
 <div class="information-buttons">
   <a class="information" href="/grants">
     Read about Opportunity Grants!
