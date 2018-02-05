@@ -35,6 +35,18 @@ layout: page
         in touch.
     </p>
 </div>
+<div class="sponsorrow">
+    <a href="https://www.jetbrains.com/" class="sponsorlogo">
+        <img src="/assets/img/sponsors/jetbrains.svg">
+    </a>
+    <p class="sponsortext">
+        JetBrains delivers intelligent software solutions that make developers more productive. PyCharm Professional
+        Edition is a Python IDE that enables Django developers to become more productive, by offering in-depth code
+        analysis tailored to Django. As a tool for professional web developers, it also supports modern JavaScript,
+        Docker, and has comprehensive support for SQL databases. In addition to PyCharm Professional Edition, JetBrains
+        also offers a free and open source PyCharm Community Edition.
+    </p>
+</div>
 
 <div class="information-buttons">
   <a class="information" href="/sponsoring/">
