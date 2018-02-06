@@ -69,3 +69,8 @@ layout: page
         <img src="/assets/img/sponsors/pysv.svg">
     </a>
 </div>
+<div class="sponsorrow">
+    <a href="https://www.europython-society.org" class="sponsorlogo">
+        <img src="/assets/img/sponsors/eps.svg">
+    </a>
+</div>

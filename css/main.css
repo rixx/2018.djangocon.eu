@@ -346,6 +346,9 @@ a img {
     margin-bottom: 5px;
     height: auto;
 }
+.frontpage-sponsorcol a img.smaller {
+  width: 90%;
+}
 .frontpage-row {
     display: flex;
     flex-wrap: wrap;
