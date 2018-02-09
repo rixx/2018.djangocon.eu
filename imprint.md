@@ -10,7 +10,7 @@ Love letters and similar things on paper should be addressed to:
 
     ROSE – Rhein-Neckar Open Source Events e.V.
     c/o Michel
-    Heinrich-Fuchs-Str. 120
+	Rathausstr. 19/2
     69126 Heidelberg
     Germany
 
