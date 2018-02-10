@@ -54,22 +54,40 @@ layout: page
   </a>
 </div>
 
+### Silver sponsors
+
+<div class="sponsorrow multisponsor">
+    <a href="https://ambient-innovation.com" class="sponsorlogo">
+        <img src="/assets/img/sponsors/ai.svg">
+    </a>
+</div>
+
 ### Bronze sponsors
 
-<div class="sponsorrow">
+<div class="sponsorrow multisponsor">
     <a href="https://www.django-verein.de" class="sponsorlogo">
         <img src="/assets/img/sponsors/ddv.svg">
     </a>
+    <a href="http://www.jambonsw.com/" class="sponsorlogo">
+        <img src="/assets/img/sponsors/jambon.png">
+    </a>
+	<a href="http://www.python-academy.com/" class="sponsorlogo">
+		<img src="/assets/img/sponsors/pya.svg">
+	</a>
 </div>
 
 ### Opportunity grants sponsors
 
-<div class="sponsorrow">
+<div class="sponsorrow multisponsor">
+	<a href="https://www.djangoproject.com/foundation/" class="sponsorlogo">
+		<img src="/assets/img/sponsors/dsf.svg">
+	</a>
+	<a href="https://www.python.org/psf/" class="sponsorlogo">
+		<img src="/assets/img/sponsors/psf.svg">
+	</a>
     <a href="https://python-verband.org" class="sponsorlogo">
         <img src="/assets/img/sponsors/pysv.svg">
     </a>
-</div>
-<div class="sponsorrow">
     <a href="https://www.europython-society.org" class="sponsorlogo">
         <img src="/assets/img/sponsors/eps.svg">
     </a>
