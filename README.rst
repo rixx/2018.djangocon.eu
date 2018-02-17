@@ -9,5 +9,14 @@ how they look beforehand).
 gem install jekyll bundler jekyll-feed
 ```
 
+To see the DjangoCon Europe 2018 website, run::
+
+    jekyll s
+
+If you've added a blog post (by adding a new file in ``_posts``) that will be
+released in the future, you'll need to run::
+
+    jekyll s --future
+
 
 .. _jekyll: https://jekyllrb.com/docs/usage/
