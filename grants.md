@@ -4,12 +4,12 @@ layout: page
 
 ## Opportunity Grants
 
-DjangoCon Europe 2018 will offer grants to attendees and speakers, so that those who might otherwise not be able to
+DjangoCon Europe 2018 offers grants to attendees and speakers, so that those who might otherwise not be able to
 attend won't hesitate to participate.  Some expenses for the conference attendance (which can include travel, hotel,
 registration and etc.) will be covered for opportunity grant recipients.
 
 We actively encourage people to apply for an opportunity grant. While we wish we could give grants to everyone who
-applies, we do not have the funds to do that. Our goal is to maximise the impact our grant program has, within 
+applies, we do not have the funds to do that. Our goal is to maximise the impact our grant program has, within
 the limited funds we have.
 
 We try to do this in a number of ways:
@@ -19,7 +19,7 @@ We try to do this in a number of ways:
 * Additionally, the selection process attempts to promote a more diverse DjangoCon Europe. While encouraging diversity
   takes many forms, we're happy to use the opportunity grant program as a very direct method of supporting diversity
   within the Django community. In particular, our grant program prioritises people part of an underrepresented or marginalised
-  group in tech, as these people are more likely to experience hardships and difficulties in travelling to our events and 
+  group in tech, as these people are more likely to experience hardships and difficulties in travelling to our events and
   being a part of our community.
 * When prioritising grant applications, we try to get a feel for how much impact this grant will have on the applicant
   and the wider community and country, compared to others. In this, we consider things like involvement in a local community,
@@ -42,7 +42,7 @@ These groups include, but are not limited to:
 * people who have experienced trauma and its aftermath (PTSD, anxiety, etc)
 * people living with or recovering from substance abuse
 
-**The closing date for grant applications is February 6th, 23:59 (CET)** - same as the call for papers. We aim to inform you of the results by mid-February. If you would like to submit in the CfP and need a grant if you are selected, please ensure you fill in both the CfP form and the opportunity grant application form. 
+**The closing date for grant applications was February 6th, 23:59 (CET)** - same as the call for papers. We aim to inform you of the results by mid-February. If you would like to submit in the CfP and need a grant if you are selected, please ensure you fill in both the CfP form and the opportunity grant application form.
 
 If you are an accepted speaker, and you don’t need a grant because your employer is funding your conference costs, we can recognise your employer for this. For now we’re planning to get their logo in the programme, next to your talk, and a post on the job board. This is opt-in. With this, we hope to make it a bit easier for you to convince your employer to contribute towards your conference costs as a speaker.
 
@@ -57,9 +57,3 @@ Lastly, we know that for some people it can be difficult to feel like it's ok fo
 With our limited funds, we can't promise you will receive a grant, but if you're not sure, we encourage you to apply.
 If you're uncomfortable with other people knowing you received a grant, you don't have to tell them - our policy
 is to never publicly identify grant applicants or recipients unless we have your explicit permission.
-
-<div class="information-buttons">
-  <a class="information" href="https://docs.google.com/forms/d/e/1FAIpQLSf5LnK6z2LB6Zm2ZfgjdIORyv-GlqP7r2KcpPQ23GmM4snT0g/viewform?usp=sf_link">
-    Apply for an Opportunity Grant
-  </a>
-</div>
