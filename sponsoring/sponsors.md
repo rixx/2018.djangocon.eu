@@ -68,13 +68,13 @@ layout: page
     <a href="https://www.django-verein.de" class="sponsorlogo">
         <img src="/assets/img/sponsors/ddv.svg">
     </a>
-    <a href="http://www.jambonsw.com/" class="sponsorlogo">
+    <a href="https://www.jambonsw.com/" class="sponsorlogo">
         <img src="/assets/img/sponsors/jambon.png">
     </a>
     <a href="http://www.python-academy.com/" class="sponsorlogo">
       <img src="/assets/img/sponsors/pya.svg">
     </a>
-    <a href="http://travis-ci.org/" class="sponsorlogo">
+    <a href="https://travis-ci.org/" class="sponsorlogo">
       <img src="/assets/img/sponsors/travis.svg">
     </a>
 </div>

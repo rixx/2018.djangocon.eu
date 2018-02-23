@@ -39,7 +39,7 @@ nights.
 ### Bike
 
 There is a NextBike bike sharing system installed with relatively cheap rates, you can find more on
-[their website](http://www.vrnnextbike.de/en/). If you already have a NextBike account from a
+[their website](https://www.vrnnextbike.de/en/). If you already have a NextBike account from a
 different place, it will work here as well.
 
 ### Taxi
