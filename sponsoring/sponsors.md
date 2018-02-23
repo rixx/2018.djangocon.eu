@@ -71,20 +71,23 @@ layout: page
     <a href="http://www.jambonsw.com/" class="sponsorlogo">
         <img src="/assets/img/sponsors/jambon.png">
     </a>
-	<a href="http://www.python-academy.com/" class="sponsorlogo">
-		<img src="/assets/img/sponsors/pya.svg">
-	</a>
+    <a href="http://www.python-academy.com/" class="sponsorlogo">
+      <img src="/assets/img/sponsors/pya.svg">
+    </a>
+    <a href="http://travis-ci.org/" class="sponsorlogo">
+      <img src="/assets/img/sponsors/travis.svg">
+    </a>
 </div>
 
 ### Opportunity grants sponsors
 
 <div class="sponsorrow multisponsor">
-	<a href="https://www.djangoproject.com/foundation/" class="sponsorlogo">
-		<img src="/assets/img/sponsors/dsf.svg">
-	</a>
-	<a href="https://www.python.org/psf/" class="sponsorlogo">
-		<img src="/assets/img/sponsors/psf.svg">
-	</a>
+    <a href="https://www.djangoproject.com/foundation/" class="sponsorlogo">
+        <img src="/assets/img/sponsors/dsf.svg">
+    </a>
+    <a href="https://www.python.org/psf/" class="sponsorlogo">
+        <img src="/assets/img/sponsors/psf.svg">
+    </a>
     <a href="https://python-verband.org" class="sponsorlogo">
         <img src="/assets/img/sponsors/pysv.svg">
     </a>
