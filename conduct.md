@@ -43,6 +43,7 @@ In case of a Code of Conduct violation, some of the most common actions organise
 
 * Demanding that a participant stops their behaviour.
 * Demanding that a participant prevents further contact with certain other participants.
+* Not publishing the video of a conference talk.
 * Cancelling a conference talk.
 * Removing a participant from the conference, without refund.
 
@@ -75,7 +76,7 @@ If you don’t have some of this information, or not at this time, please still 
 
 If you feel unsafe reporting in person, you may choose someone to represent you. In this case, we'd need their contact information, but we'd ask you to make clear that this person represents you.
 
-We follow specific guidelines when handling a report, which we will publish closer to the conference. This helps us to handle incidents professionally.
+When handling a report, we follow <a href=“/conduct-response”>specific guidelines</a>.
 
 ### Emergencies
 
