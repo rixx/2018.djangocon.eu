@@ -4,7 +4,7 @@ title: Howto Visa Applications
 date: 2018-02-28 20:00
 ---
 
-If you're not travelling from inside the EU/Schengen area to Heidelberg, you may well need a visa to enter the country.
+If you're not travelling from inside the EU/Schengen area to Heidelberg, you may need a visa to enter Germany.
 
 <!-- more -->
 
@@ -20,7 +20,7 @@ visa application form in your country's language, provide some additional inform
 You will also probably need a letter of invitation to confirm that you're indeed visiting DjangoCon Europe. To receive
 an invitation, please [send us an email](mailto:2018@djangocon.eu) including the following information:
 
-- Your first and last name, as on your official documents
+- Your full legal name, as stated on your official documents
 - Your date of birth
 - Your current address
 - Your passport number
