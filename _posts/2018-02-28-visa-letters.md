@@ -28,4 +28,4 @@ an invitation, please [send us an email](mailto:2018@djangocon.eu) including the
 - Your current occupation (or anything else we should supply as context/reason for the invitation)
 - Your order code/url for your DjangoCon ticket
 
-As you can usually submit your visa application 90 days before your travel, now is the best time to do so!
+As visa applications can take some time to get processed, now is the best time to start yours!
