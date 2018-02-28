@@ -74,7 +74,7 @@ layout: page
     <a href="http://www.python-academy.com/" class="sponsorlogo">
       <img src="/assets/img/sponsors/pya.svg">
     </a>
-    <a href="https://travis-ci.org/" class="sponsorlogo">
+    <a href="https://travis-ci.org/?utm_source=DjangoconEurope2018" class="sponsorlogo">
       <img src="/assets/img/sponsors/travis.svg">
     </a>
 </div>
