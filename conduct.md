@@ -6,7 +6,7 @@ layout: page
 
 Everybody who participates in DjangoCon Europe in one way or another is required to conform to this Code of Conduct (CoC). This includes attendees, speakers, sponsors, organisers and volunteers.
 
-The organisers will introduce a Code of Conduct team that will be primarily responsible for handling any incidents. The CoC applies before and throughout the event (including related activities such as social events, and social media).
+The organisers will introduce a Code of Conduct team that will be primarily responsible for handling any incidents. The CoC applies before and throughout the event (including related activities such as social events, and social media). We have also published our [response guidelines](/conduct-response/).
 
 ## Why do we have a Code of Conduct?
 
@@ -76,7 +76,7 @@ If you don’t have some of this information, or not at this time, please still 
 
 If you feel unsafe reporting in person, you may choose someone to represent you. In this case, we'd need their contact information, but we'd ask you to make clear that this person represents you.
 
-When handling a report, we follow <a href=“/conduct-response”>specific guidelines</a>.
+When handling a report, we follow [specific guidelines](/conduct-response/).
 
 ### Emergencies
 
