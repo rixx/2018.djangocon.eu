@@ -22,8 +22,6 @@ collections:
 navigation:
   - title: News
     url: /news
-  - title: Timeline
-    url: /timeline
   - title: Information
     url: /info
     subpages:
@@ -37,12 +35,14 @@ navigation:
         url: /info/venues
       - title: Accessibility
         url: /access
+      - title: Timeline
+        url: /timeline
+      - title: Opportunity Grants
+        url: /grants
   - title: Tickets
     url: /tickets
   - title: CfP
     url: https://2018.djangocontent.eu/hd/cfp
-  - title: Opportunity Grants
-    url: /grants
   - title: Code of Conduct
     url: /conduct
   - title: Sponsoring
