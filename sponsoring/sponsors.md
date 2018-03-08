@@ -60,6 +60,9 @@ layout: page
     <a href="https://ambient-innovation.com" class="sponsorlogo">
         <img src="/assets/img/sponsors/ai.svg">
     </a>
+    <a href="http://maykinmedia.nl/" class="sponsorlogo">
+        <img src="/assets/img/sponsors/maykin_media.svg">
+    </a>
 </div>
 
 ### Bronze sponsors
