@@ -3,6 +3,16 @@ layout: page
 ---
 
 ## Our sponsors
+### Platinum sponsor
+<div class="sponsorrow">
+    <a href="https://godaddy.com" class="sponsorlogo">
+        <img src="/assets/img/sponsors/godaddy.png">
+    </a>
+    <p class="sponsortext">
+		GoDaddy powers the world’s largest cloud platform dedicated to small, independent ventures. With +17 million customers worldwide and 73 million domain names under management, GoDaddy is the place people come to name their idea, build a professional website, attract customers and manage their work.
+		GoDaddy’s vision is to radically shift the global economy toward independent ventures by empowering people to transform their ideas and initiatives into life-fulfilling endeavors.
+    </p>
+</div>
 
 ### Gold sponsors
 
