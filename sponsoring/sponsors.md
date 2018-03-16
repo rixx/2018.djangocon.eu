@@ -90,6 +90,9 @@ layout: page
     <a href="https://travis-ci.org/?utm_source=DjangoconEurope2018" class="sponsorlogo">
       <img src="/assets/img/sponsors/travis.svg">
     </a>
+    <a href="https://pretix.eu" class="sponsorlogo">
+      <img src="/assets/img/sponsors/pretix.svg">
+    </a>
 </div>
 
 ### Opportunity grants sponsors
