@@ -14,7 +14,7 @@ faces from our community. For all ideas that don't quite fill the length or dept
 **Lightning Talk** slots. Sign-up for Lightning Talks will be on-site at the talk venue.
 
 **Update: Due to a technical failure, the first version of this blog post missed 6 talks. We want to apologize for this
-error.
+error.**
 
 ### Talks
 
