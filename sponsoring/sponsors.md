@@ -73,6 +73,9 @@ layout: page
     <a href="http://maykinmedia.nl/" class="sponsorlogo">
         <img src="/assets/img/sponsors/maykin_media.svg">
     </a>
+    <a href="http://prounix.de/" class="sponsorlogo">
+        <img src="/assets/img/sponsors/prounix.svg">
+    </a>
 </div>
 
 ### Bronze sponsors
