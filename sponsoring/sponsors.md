@@ -96,6 +96,9 @@ layout: page
     <a href="https://pretix.eu" class="sponsorlogo">
       <img src="/assets/img/sponsors/pretix.svg">
     </a>
+    <a href="https://lincolnloop.com" class="sponsorlogo">
+      <img src="/assets/img/sponsors/lincolnloop.svg">
+    </a>
 </div>
 
 ### Opportunity grants sponsors
