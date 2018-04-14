@@ -22,9 +22,9 @@ are operated by “RNV” -- just don’t get confused by the two names ;) The n
 support credit cards and and some debit cards (girocard/Maestro/V-Pay), while there are still some
 older machines around that only take cash.
 
-Tickets for travelling inside Heidelberg require “price level 2” which is 2.50 EUR for a 90 minutes
-in one direction. There are day passes starting from 6.50 EUR for one person (cheaper for groups). A
-three-day pass is 15.80 EUR and a week pass 23.20 EUR. There is a ticketing app available that
+Tickets for travelling inside Heidelberg require “price level 2” which is 2.60 EUR for a 90 minutes
+in one direction. There are day passes starting from 6.80 EUR for one person (cheaper for groups). A
+three-day pass is 16.20 EUR and a week pass 23.70 EUR. There is a ticketing app available that
 features a special tariff that charges you by kilometer distance.
 
 Connections can be checked at [the official site](https://www.vrn.de/). Unfortunately, the site does
