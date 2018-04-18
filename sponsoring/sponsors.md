@@ -117,3 +117,11 @@ layout: page
         <img src="/assets/img/sponsors/eps.svg">
     </a>
 </div>
+
+### Child care sponsor
+
+<div class="sponsorrow multisponsor">
+    <a href="https://www.89grad.ch/" class="sponsorlogo">
+        <img src="/assets/img/sponsors/89grad.svg">
+    </a>
+</div>
