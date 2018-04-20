@@ -125,3 +125,9 @@ layout: page
         <img src="/assets/img/sponsors/89grad.svg">
     </a>
 </div>
+### Bathroom basket sponsor
+<div class="sponsorrow multisponsor">
+    <a href="https://ax-semantics.com/" class="sponsorlogo">
+        <img src="/assets/img/sponsors/axsemantics.svg">
+    </a>
+</div>
