@@ -17,8 +17,8 @@ wonderful our conference and our community will be.
 
 
 <div class="information-buttons"><div class="notice">
-   💸 If you live (or do business in) the Euro zone, please consider using a <strong>bank transfer</strong>
-   instead of a credit card payment, as credit card fees run considerably higher. Thank you! 💸
+   💸 Unfortunately, we are <strong>sold out</strong>. As the capacity of our venues is limited, we are not planning on releasing
+   more tickets. 💸
 </div></div>
 
 <link rel="stylesheet" type="text/css" href="https://pretix.eu/rose/djangocon/widget/v1.css">
