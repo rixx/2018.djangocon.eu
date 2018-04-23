@@ -8,7 +8,7 @@ We have released our schedule – take a look!
 
 <!-- more -->
 
-After a bit of shuffling things around, we have released our [schedule](https://2018.djangocontent.eu/hd/schedule/v/0.1/).
+After a bit of shuffling things around, we have released our [schedule](https://2018.djangocontent.eu/hd/schedule/).
 As the conference is still a month away, it may still change, but we hope that the overall structure will remain as is.
 If changes in the schedule are important to you, you can [subscribe to its RSS feed](https://2018.djangocontent.eu/hd/schedule/feed.xml)
 to get notified of all changes.
