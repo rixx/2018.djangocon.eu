@@ -76,14 +76,14 @@ layout: page
     <a href="http://prounix.de/" class="sponsorlogo">
         <img src="/assets/img/sponsors/prounix.svg">
     </a>
+    <a href="https://www.django-verein.de" class="sponsorlogo">
+        <img src="/assets/img/sponsors/ddv.svg">
+    </a>
 </div>
 
 ### Bronze sponsors
 
 <div class="sponsorrow multisponsor">
-    <a href="https://www.django-verein.de" class="sponsorlogo">
-        <img src="/assets/img/sponsors/ddv.svg">
-    </a>
     <a href="https://www.jambonsw.com/" class="sponsorlogo">
         <img src="/assets/img/sponsors/jambon.png">
     </a>
