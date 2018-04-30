@@ -58,12 +58,6 @@ layout: page
     </p>
 </div>
 
-<div class="information-buttons">
-  <a class="information" href="/sponsoring/">
-    Sponsor us!
-  </a>
-</div>
-
 ### Silver sponsors
 
 <div class="sponsorrow multisponsor">
@@ -78,6 +72,22 @@ layout: page
     </a>
     <a href="https://www.django-verein.de" class="sponsorlogo">
         <img src="/assets/img/sponsors/ddv.svg">
+    </a>
+</div>
+
+### Speech-to-text sponsor
+
+<div class="sponsorrow multisponsor">
+    <a href="https://divio.com/" class="sponsorlogo">
+        <img src="/assets/img/sponsors/divio.svg">
+    </a>
+</div>
+
+### Child care sponsor
+
+<div class="sponsorrow multisponsor">
+    <a href="https://www.89grad.ch/" class="sponsorlogo">
+        <img src="/assets/img/sponsors/89grad.svg">
     </a>
 </div>
 
@@ -116,15 +126,11 @@ layout: page
     <a href="https://www.europython-society.org" class="sponsorlogo">
         <img src="/assets/img/sponsors/eps.svg">
     </a>
-</div>
-
-### Child care sponsor
-
-<div class="sponsorrow multisponsor">
-    <a href="https://www.89grad.ch/" class="sponsorlogo">
-        <img src="/assets/img/sponsors/89grad.svg">
+    <a href="https://twitter.com/djangosociety" class="sponsorlogo">
+        <img src="/assets/img/sponsors/dsuk.svg">
     </a>
 </div>
+
 ### Bathroom basket sponsor
 <div class="sponsorrow multisponsor">
     <a href="https://ax-semantics.com/" class="sponsorlogo">
