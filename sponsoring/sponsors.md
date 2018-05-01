@@ -109,6 +109,9 @@ layout: page
     <a href="https://lincolnloop.com" class="sponsorlogo">
       <img src="/assets/img/sponsors/lincolnloop.svg">
     </a>
+    <a href="http://labdigital.nl/" class="sponsorlogo">
+      <img src="/assets/img/sponsors/labdigital.svg">
+    </a>
 </div>
 
 ### Opportunity grants sponsors
