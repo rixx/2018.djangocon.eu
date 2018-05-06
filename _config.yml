@@ -45,6 +45,8 @@ navigation:
     url: https://2018.djangocontent.eu/hd/schedule/
   - title: Code of Conduct
     url: /conduct
+  - title: Team
+    url: /team
   - title: Sponsors
     url: /sponsoring/sponsors
     subpages:

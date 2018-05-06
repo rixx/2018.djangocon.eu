@@ -544,15 +544,41 @@ a img {
     }
 }
 
-@media screen and (max-width: 750px) {
-  img.logo {height: 90px;}
-}
-@media screen and (max-width: 370px) {
-  img.logo {height: 70px;}
-}
 img.emoji {
    height: 1em;
    width: 1em;
    margin: 0 .05em 0 .1em;
    vertical-align: -0.1em;
+}
+.team {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+.teamrow {
+	width: 50%;
+	min-width: 300px;
+	margin: 10px 0;
+}
+.teamrow > img {
+	width: 100px;
+	height: auto;
+	float: left;
+}
+.teamrow div {
+	margin-left: 120px;
+	padding: 0 15px 0 0;
+}
+.teamrow h3 {
+	margin-bottom: 5px;
+	margin-top: 0;
+}
+@media screen and (max-width: 750px) {
+  img.logo {height: 90px;}
+  .teamrow {
+	  width: 100%;
+  }
+}
+@media screen and (max-width: 370px) {
+  img.logo {height: 70px;}
 }
