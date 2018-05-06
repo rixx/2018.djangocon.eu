@@ -12,16 +12,54 @@ For accessibility information regarding the venues, please go [here](/access).
 
 The conference venue is the beautiful Heidelberg [City Hall](http://www.heidelberg-kongresshaus.de/)
 (»Stadthalle Heidelberg«), a central building from 1903. Its address is Neckarstaden 24, 69117 Heidelberg.
-
 You can find detailed information on how to reach the City Hall on [their
 website](http://www.heidelberg-kongresshaus.de/en/visitors/arrival-parking.html).
 
+**Public transport:**
+
+* 🚏 Kongreßhaus 🚍 31, 32, 35 🚶 + 100m
+* 🚏 Bismarckplatz 🚍 33, 34, 39, … 🚊 5, 21, 22, 23 🚶🏿 + 750m
+
+You can find information on public transport tickets [here](/info/heidelberg/).
 
 ### Sprints & workshops venue
 
+After we've talked about software for three days, we want to dive in
+and get practical on the weekend. On Saturday and Sunday we invite
+you to join us for two days of Sprints and Workshops. You haven't
+contributed to Open Source before? No problem! A Sprint is the single
+most perfect opportunity to get started. Experienced contributors will
+be present and ready to help you with any problems.
+
 The sprints will take place at [Dezernat 16](http://www.dezernat16.de/), a former fire station. Its
 address is Emil-Maier-Str. 16, 69115 Heidelberg.
+We will be sprinting in the
+large former vehicle hall on the ground floor as well as in the former
+gym on the top floor. On first floor, you can find workshops as well as a
+quiet room if you need to take a break. Food and drinks will be served
+on the ground floor.
+
+
+**Public transport:**
+
+* 🚏 Hauptbahnhof (Central Station) 🚍 32, 33, 34, 39, … 🚊 5, 21, 24 🚶‍♀️ + 500m
+* 🚏 Betriebshof 🚍 32, 34, 35, … 🚊 21, 22, 24 🚶🏿 + 350m
 
 ### Party location
 
-We're still figuring out where the party will take place, so please check back later!
+This year marks the 10th edition of DjangoCon Europe and we believe
+this calls for a birthday party! We want you to celebrate with us on
+Thursday night at halle02, starting off at 20.30. There will be no dinner
+available at the party, so make sure to grab something on the way.
+Located on the backside of the Central Station, on the grounds of the
+former goods station, halle02 has been the go-to location for parties,
+concerts and other events for a decade before Heidelberg's youngest
+neighborhood "Bahnstadt" has been built right next to it. Our party will
+take place in their concert hall – and if we're lucky with the weather,
+there will be some space outside as well.
+
+**Public transport:**
+
+* 🚏 Hauptbahnhof (Central Station) 🚍 32, 33, 34, 39, … 🚊 5, 21, 24 🚶‍♀️ + 800m
+* 🚏 Hauptbahnhof *Süd* 🚍 33, 721 🚶 + 150m
+* 🚏 Montpellierbrücke 🚍 717, 720 🚊 26 🚶🏿 + 650m
