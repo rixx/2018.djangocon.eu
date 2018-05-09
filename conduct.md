@@ -52,9 +52,11 @@ The action taken is at the discretion of the Code of Conduct team. Participants 
 ### Where to report incidents
 
 If a Code of Conduct incident happens to you, or witness it happening to someone else, please contact the CoC team immediately either in person, or by sending an email to
-conduct@djangocon.eu.
+conduct@djangocon.eu. In urgent cases, you can also phone us on +49 6221 6479538.
 
-Code of Conduct team members will be introduced in person at the conference. You can approach any of them at any time to discuss an incident. We will also post their names closer to the conference. You can also ask any other staff to help you find them at the conference. We will provide more instant points of contact (Slack, phone) once we are closer to the conference.
+Our Code of Conduct team consists of Anna Makarudze, Norma Driske, Sasha Romijn and Tobias Kunze.
+
+The team members will be introduced in person at the conference. You can approach any of them at any time to discuss an incident or concern. You can also ask any other staff to help you find them at the conference.
 
 ### Guidelines for reporting incidents
 
