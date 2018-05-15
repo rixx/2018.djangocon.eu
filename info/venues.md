@@ -58,6 +58,8 @@ neighborhood "Bahnstadt" has been built right next to it. Our party will
 take place in their concert hall – and if we're lucky with the weather,
 there will be some space outside as well.
 
+Adress: Zollhofgarten 2, 69115 Heidelberg
+
 **Public transport:**
 
 * 🚏 Hauptbahnhof (Central Station) 🚍 32, 33, 34, 39, … 🚊 5, 21, 24 🚶‍♀️ + 800m
