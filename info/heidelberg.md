@@ -12,7 +12,7 @@ and Bismarckplatz, a place right next to the old town, and in easy walking dista
 venue.
 
 There are regular trams and buses from Hauptbahnhof to Bismarckplatz. Our talks venue is inside the
-old town and reachable with buses to the stop “Kongresshaus” or by foot from Bismarckplatz. Our
+old town and reachable <strike>with buses to the stop “Kongresshaus” or</strike> by foot from Bismarckplatz. Our
 sprints venue is reachable by foot from Central station or from the bus stop Czernybrücke.
 
 Tickets can be bought from vending machines at any tram station or from bus drivers. They can not be

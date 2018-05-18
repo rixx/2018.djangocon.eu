@@ -17,10 +17,13 @@ website](http://www.heidelberg-kongresshaus.de/en/visitors/arrival-parking.html)
 
 **Public transport:**
 
-* 🚏 Kongreßhaus 🚍 31, 32, 35 🚶 + 100m
+* <strike>🚏 Kongreßhaus 🚍 31, 32, 35 🚶 + 100m</strike>
 * 🚏 Bismarckplatz 🚍 33, 34, 39, … 🚊 5, 21, 22, 23 🚶🏿 + 750m
 
 You can find information on public transport tickets [here](/info/heidelberg/).
+
+**Due to short notice construction work, the buses are not stopping at the venue. We recommand to walk from Bismarckplatz or take the bus to
+Marstallstr., which is slightly closer.**
 
 ### Sprints & workshops venue
 
