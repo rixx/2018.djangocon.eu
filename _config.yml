@@ -47,6 +47,8 @@ navigation:
     url: /conduct
   - title: Team
     url: /team
+  - title: Jobs
+    url: https://2018.djangocon.eu/jobs/
   - title: Sponsors
     url: /sponsoring/sponsors
     subpages:
