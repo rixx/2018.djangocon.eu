@@ -39,8 +39,8 @@ navigation:
         url: /timeline
       - title: Opportunity Grants
         url: /grants
-  - title: Tickets
-    url: /tickets
+  - title: Streaming
+    url: http://streaming.media.ccc.de/
   - title: Schedule
     url: https://2018.djangocontent.eu/hd/schedule/
   - title: Code of Conduct
