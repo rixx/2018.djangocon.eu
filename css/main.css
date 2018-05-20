@@ -356,7 +356,7 @@ a img {
     align-items: flex-start;
     margin: 0 -15px;
 }
-.frontpage-row .cell-container {
+.cell-container {
     flex: 1 0 auto;
     width: 50%;
     box-sizing: border-box;
@@ -364,7 +364,12 @@ a img {
     padding: 15px;
     min-height: 150px;
 }
-.frontpage-row .cell-container .cell {
+.cell-container.small-container {
+  min-height: 0;
+  width: 100%;
+  padding: 0;
+}
+.cell-container .cell {
     border: 3px solid #f58718;
     height: 100%;
     display: block;
@@ -372,27 +377,27 @@ a img {
     color: #444;
     font-weight: normal;
 }
-.frontpage-row .cell-container .cell:hover {
+.cell-container .cell:hover {
     background: #f58718;
 }
-.frontpage-row .cell-container .cell .cell-textcontent {
+.cell-container .cell .cell-textcontent {
     padding: 15px;
     box-sizing: border-box;
 }
-.frontpage-row .cell-right-photo .cell-photo {
+.cell-right-photo .cell-photo {
     float: right;
 }
-.frontpage-row .cell-right-photo .cell-textcontent {
+.cell-right-photo .cell-textcontent {
     margin-right: 200px;
 }
-.frontpage-row .cell h3 {
+.cell h3 {
     margin: 0 0 10px 0;
     text-transform: uppercase;
 }
-.frontpage-row .cell:hover {
+.cell:hover {
     color: white;
 }
-.frontpage-row .cell:hover h3 {
+.cell:hover h3 {
     color: white;
 }
 .clear {
