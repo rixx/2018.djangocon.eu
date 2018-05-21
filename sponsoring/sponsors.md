@@ -57,6 +57,14 @@ layout: page
         also offers a free and open source PyCharm Community Edition.
     </p>
 </div>
+<div class="sponsorrow">
+    <a href="https://www.nexmo.com/" class="sponsorlogo">
+        <img src="/assets/img/sponsors/nexmo.svg">
+    </a>
+    <p class="sponsortext">
+		Nexmo develops products that help you keep in touch with your customers, by providing solid APIs for SMS, Voice and phone verification.
+    </p>
+</div>
 
 ### Silver sponsors
 
