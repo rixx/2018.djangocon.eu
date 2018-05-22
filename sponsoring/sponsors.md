@@ -62,7 +62,9 @@ layout: page
         <img src="/assets/img/sponsors/nexmo.svg">
     </a>
     <p class="sponsortext">
-		Nexmo develops products that help you keep in touch with your customers, by providing solid APIs for SMS, Voice and phone verification.
+        Nexmo is a global communications platform, providing APIs and SDKs for SMS, voice, phone verification, messaging
+        and advanced multi-channel conversations. We have libraries across a range of platforms, enabling you to build
+        communications features.
     </p>
 </div>
 
