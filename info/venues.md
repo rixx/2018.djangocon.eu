@@ -62,7 +62,10 @@ neighborhood "Bahnstadt" has been built right next to it. Our party will
 take place in their concert hall – and if we're lucky with the weather,
 there will be some space outside as well.
 
-Adress: Zollhofgarten 2, 69115 Heidelberg
+**Adress:** Zollhofgarten 2, 69115 Heidelberg
+
+Please look for this address on a map service of your choice and have a look at the photo story on how to reach the
+party, posted in the announcements channel of our attendee Slack.
 
 **Public transport:**
 
@@ -70,4 +73,3 @@ Adress: Zollhofgarten 2, 69115 Heidelberg
 * 🚏 Hauptbahnhof *Süd* 🚍 33, 721 🚶 + 150m
 * 🚏 Montpellierbrücke 🚍 717, 720 🚊 26 🚶🏿 + 650m
 
-<iframe width="100%" height="300px" frameBorder="0" src="https://umap.openstreetmap.fr/de/map/unbenannte-karte_222216?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
