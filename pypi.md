@@ -23,7 +23,7 @@ This will use our PyPI cache to install django. Great for one-off usage. (Works 
 ### Environment variable
 
 ````
-export PIP_INDEX_URL=http://pypi.rose-conferences.org/root/pypi/+simple/
+export PIP_INDEX_URL=https://pypi.rose-conferences.org/root/pypi/+simple/
 ```
 
 Run this in your shell, then run other pip commands. This will activate the use of the PyPI cache for only this terminal
