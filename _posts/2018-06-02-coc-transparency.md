@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Code of Conduct transparency report"
-date: 2018-07-02 09:00
+date: 2018-06-02 09:00
 ---
 
 As part of our [Code of Conduct process](https://2018.djangocon.eu/conduct/) we're publishing a transparency report about how we dealt with our Code of Conduct, any incidents at the conference and our response, and lessons learned.
